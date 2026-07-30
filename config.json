@@ -9,5 +9,6 @@
   ],
   "lookback_days": 7,
   "pubmed_max_results": 50,
-  "ctgov_max_results": 50
+  "ctgov_max_results": 50,
+  "drive_archive": "gdrive:Kinchan_AI_Workspace/NbAnalyzer/02_中间结果/med-monitor"
 }

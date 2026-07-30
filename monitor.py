@@ -21,6 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "config.json"
 STATE_PATH = BASE_DIR / "state" / "state.json"
 REPORTS_DIR = BASE_DIR / "reports"
+LOGS_DIR = BASE_DIR / "logs"
 
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
@@ -221,8 +222,32 @@ def main():
 
         state[name] = {"pubmed": pubmed, "ctgov": ctgov}
 
+        # 运行日志: 每次运行追加一行 (时间, 标的, 统计)
+        LOGS_DIR.mkdir(parents=True, exist_ok=True)
+        log_line = (
+            f"{datetime.now().isoformat(timespec='seconds')}\t{name}\t"
+            f"pubmed={len(pubmed)}\tctgov={len(ctgov)}\t"
+            f"new_pubmed={len(pubmed_added)}\tnew_ct={len(ct_added)}\tchanged_ct={len(ct_changed)}\n"
+        )
+        with (LOGS_DIR / "monitor.log").open("a", encoding="utf-8") as f:
+            f.write(log_line)
+
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
     print("state 已更新。", flush=True)
+
+    # Drive 归档: 报告 + 日志直传 (不过 Raft), config.drive_archive 非空时启用
+    archive = config.get("drive_archive", "").strip()
+    if archive and not init_mode:
+        import subprocess
+        for local_path in [REPORTS_DIR, LOGS_DIR]:
+            r = subprocess.run(
+                ["rclone", "copy", str(local_path), archive, "-v"],
+                capture_output=True, text=True, timeout=300,
+            )
+            if r.returncode == 0:
+                print(f"Drive 归档完成: {local_path.name} → {archive}", flush=True)
+            else:
+                print(f"⚠️ Drive 归档失败 ({local_path.name}): {r.stderr.strip()[:200]}", flush=True)
 
 
 if __name__ == "__main__":
