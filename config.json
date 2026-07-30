@@ -1,0 +1,13 @@
+{
+  "targets": [
+    {
+      "name": "CDH3",
+      "pubmed_query": "CDH3 OR cadherin-3 OR P-cadherin",
+      "pubmed_filter": "antibody OR ADC OR \"antibody-drug conjugate\" OR bispecific",
+      "ctgov_query": "CDH3 OR P-cadherin"
+    }
+  ],
+  "lookback_days": 7,
+  "pubmed_max_results": 50,
+  "ctgov_max_results": 50
+}
