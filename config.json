@@ -4,7 +4,8 @@
       "name": "CDH3",
       "pubmed_query": "CDH3 OR cadherin-3 OR P-cadherin",
       "pubmed_filter": "antibody OR ADC OR \"antibody-drug conjugate\" OR bispecific",
-      "ctgov_query": "CDH3 OR P-cadherin"
+      "ctgov_query": "AREA[InterventionName]\"P-cadherin\" OR AREA[InterventionName]\"CDH3\" OR AREA[InterventionName]\"raludotatug\" OR AREA[OfficialTitle]\"P-cadherin\" OR AREA[OfficialTitle]\"CDH3\" OR AREA[OfficialTitle]\"raludotatug\" OR AREA[OfficialTitle]\"R-DXd\"",
+      "ctgov_relevance_terms": ["CDH3", "P-cadherin", "raludotatug", "R-DXd"]
     }
   ],
   "lookback_days": 7,

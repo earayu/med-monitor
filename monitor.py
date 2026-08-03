@@ -80,12 +80,16 @@ def fetch_pubmed(query, extra_filter, lookback_days, max_results):
     return result
 
 
-def fetch_ctgov(query, max_results):
-    """返回 {nct_id: {title, status, phase, last_update, sponsor}}。"""
+def fetch_ctgov(query, max_results, relevance_terms=()):
+    """返回 {nct_id: {title, status, phase, last_update, sponsor}}。
+
+    API 分词宽泛 ("P-cadherin" 会命中 E/VE/N-cadherin), 因此取宽召回后
+    在本地按 title+interventions 做整词/子串过滤 (relevance_terms)。
+    """
     params = {
         "query.term": query,
         "pageSize": str(min(max_results, 100)),
-        "fields": "NCTId,BriefTitle,OverallStatus,Phase,LastUpdatePostDate,LeadSponsorName",
+        "fields": "NCTId,BriefTitle,OverallStatus,Phase,LastUpdatePostDate,LeadSponsorName,InterventionName",
         "format": "json",
     }
     url = CTGOV_URL + "?" + urllib.parse.urlencode(params)
@@ -97,9 +101,16 @@ def fetch_ctgov(query, max_results):
         status = proto.get("statusModule", {})
         design = proto.get("designModule", {})
         sponsor = proto.get("sponsorCollaboratorsModule", {})
+        arms = proto.get("armsInterventionsModule", {})
         nct = ident.get("nctId")
         if not nct:
             continue
+        interventions = [i.get("name", "") for i in arms.get("interventions", [])]
+        # 本地相关性过滤: title 或任一 intervention 命中任一 term (大小写不敏感)
+        if relevance_terms:
+            haystack = (ident.get("briefTitle", "") + " " + " ".join(interventions)).lower()
+            if not any(t.lower() in haystack for t in relevance_terms):
+                continue
         phases = design.get("phases", [])
         result[nct] = {
             "title": ident.get("briefTitle", ""),
@@ -203,7 +214,11 @@ def main():
         print(f"[{name}] PubMed: {len(pubmed)} 条", flush=True)
 
         print(f"[{name}] 拉取 ClinicalTrials.gov ...", flush=True)
-        ctgov = fetch_ctgov(target["ctgov_query"], config.get("ctgov_max_results", 50))
+        ctgov = fetch_ctgov(
+            target["ctgov_query"],
+            config.get("ctgov_max_results", 50),
+            target.get("ctgov_relevance_terms", []),
+        )
         print(f"[{name}] CT.gov: {len(ctgov)} 条", flush=True)
 
         old = state.get(name, {"pubmed": {}, "ctgov": {}})
