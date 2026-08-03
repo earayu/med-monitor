@@ -151,5 +151,6 @@
   "lookback_days": 7,
   "pubmed_max_results": 50,
   "ctgov_max_results": 300,
-  "drive_archive": "gdrive:Kinchan_AI_Workspace/NbAnalyzer/02_中间结果/med-monitor"
+  "drive_archive_reports": "gdrive:Kinchan_AI_Workspace/med-monitor/03_最终交付",
+  "drive_archive_logs": "gdrive:Kinchan_AI_Workspace/med-monitor/02_中间结果"
 }

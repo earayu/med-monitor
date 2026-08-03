@@ -260,17 +260,23 @@ def main():
     STATE_PATH.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
     print("state 已更新。", flush=True)
 
-    # Drive 归档: 报告 + 日志直传 (不过 Raft), config.drive_archive 非空时启用
-    archive = config.get("drive_archive", "").strip()
-    if archive and not init_mode:
+    # Drive 归档: 周报→03_最终交付, 日志→02_中间结果 (不过 Raft), 非空时启用
+    archive_reports = config.get("drive_archive_reports", "").strip()
+    archive_logs = config.get("drive_archive_logs", "").strip()
+    if (archive_reports or archive_logs) and not init_mode:
         import subprocess
-        for local_path in [REPORTS_DIR, LOGS_DIR]:
+        targets = []
+        if archive_reports:
+            targets.append((REPORTS_DIR, archive_reports))
+        if archive_logs:
+            targets.append((LOGS_DIR, archive_logs))
+        for local_path, remote in targets:
             r = subprocess.run(
-                ["rclone", "copy", str(local_path), archive, "-v"],
+                ["rclone", "copy", str(local_path), remote, "-v"],
                 capture_output=True, text=True, timeout=300,
             )
             if r.returncode == 0:
-                print(f"Drive 归档完成: {local_path.name} → {archive}", flush=True)
+                print(f"Drive 归档完成: {local_path.name} → {remote}", flush=True)
             else:
                 print(f"⚠️ Drive 归档失败 ({local_path.name}): {r.stderr.strip()[:200]}", flush=True)
 
