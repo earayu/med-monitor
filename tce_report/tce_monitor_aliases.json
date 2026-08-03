@@ -1,0 +1,445 @@
+[
+ {
+  "canonical": "Tarlatamab",
+  "aliases": [
+   "Imdelltra",
+   "Amgen"
+  ],
+  "target": "DLL3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Tebentafusp",
+  "aliases": [
+   "IMCgp100",
+   "Kimmtrak",
+   "Immunocore"
+  ],
+  "target": "gp100 peptide–HLA-A*02:01×CD3",
+  "category": "TCR×CD3"
+ },
+ {
+  "canonical": "Catumaxomab",
+  "aliases": [
+   "Korjuny",
+   "Removab",
+   "Lindis/Neovii"
+  ],
+  "target": "EpCAM×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Pasritamig",
+  "aliases": [
+   "JNJ-78278343",
+   "Janssen"
+  ],
+  "target": "KLK2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Obrixtamig",
+  "aliases": [
+   "BI 764532",
+   "Boehringer Ingelheim"
+  ],
+  "target": "DLL3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "HLX3901",
+  "aliases": [
+   "复宏汉霖"
+  ],
+  "target": "DLL3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "AZD5863",
+  "aliases": [
+   "AstraZeneca"
+  ],
+  "target": "CLDN18.2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "ERY974",
+  "aliases": [
+   "Chugai"
+  ],
+  "target": "GPC3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Cibisatamab",
+  "aliases": [
+   "RO6958688",
+   "RO6958689",
+   "Roche"
+  ],
+  "target": "CEA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Obrindatamab",
+  "aliases": [
+   "MGD009",
+   "MacroGenics"
+  ],
+  "target": "B7-H3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "TAK-280",
+  "aliases": [
+   "Takeda"
+  ],
+  "target": "B7-H3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "AMG 340",
+  "aliases": [
+   "Amgen"
+  ],
+  "target": "PSMA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Acapatamab",
+  "aliases": [
+   "AMG 160",
+   "Amgen"
+  ],
+  "target": "PSMA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "CC-1",
+  "aliases": [
+   "Univ. Tübingen"
+  ],
+  "target": "PSMA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "CX-904",
+  "aliases": [
+   "CytomX"
+  ],
+  "target": "EGFR×CD3",
+  "category": "条件激活"
+ },
+ {
+  "canonical": "TAK-186",
+  "aliases": [
+   "Takeda"
+  ],
+  "target": "EGFR×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "M701",
+  "aliases": [
+   "武汉友芝友"
+  ],
+  "target": "EpCAM×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "BA3182",
+  "aliases": [
+   "BioAtla"
+  ],
+  "target": "EpCAM×CD3",
+  "category": "条件激活"
+ },
+ {
+  "canonical": "Ubamatamab",
+  "aliases": [
+   "REGN4018",
+   "Regeneron"
+  ],
+  "target": "MUC16×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "ISB 1302",
+  "aliases": [
+   "Ichnos"
+  ],
+  "target": "HER2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Ertumaxomab",
+  "aliases": [
+   "Neovii"
+  ],
+  "target": "HER2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "CM350",
+  "aliases": [
+   "康诺亚"
+  ],
+  "target": "GPC3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "BA1202",
+  "aliases": [
+   "博安生物"
+  ],
+  "target": "CEA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "KGX105",
+  "aliases": [
+   "Kangabio"
+  ],
+  "target": "EGFR×CD3",
+  "category": "条件激活"
+ },
+ {
+  "canonical": "QLF4113",
+  "aliases": [
+   "齐鲁制药"
+  ],
+  "target": "PSMA×CD3×CD2",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "M802",
+  "aliases": [
+   "武汉友芝友"
+  ],
+  "target": "HER2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Gocatamig",
+  "aliases": [
+   "MK-6070",
+   "HPN328",
+   "Merck/Harpoon"
+  ],
+  "target": "DLL3×CD3×albumin",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "Alveltamig",
+  "aliases": [
+   "ZG006",
+   "泽璟生物 Suzhou Zelgen"
+  ],
+  "target": "DLL3×DLL3×CD3",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "JANX007",
+  "aliases": [
+   "Janux"
+  ],
+  "target": "PSMA×CD3",
+  "category": "条件激活"
+ },
+ {
+  "canonical": "JANX008",
+  "aliases": [
+   "Janux"
+  ],
+  "target": "EGFR×CD3",
+  "category": "条件激活"
+ },
+ {
+  "canonical": "Xaluritamig",
+  "aliases": [
+   "AMG 509",
+   "Amgen"
+  ],
+  "target": "STEAP1×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Brenetafusp",
+  "aliases": [
+   "IMC-F106C",
+   "Immunocore"
+  ],
+  "target": "PRAME peptide–HLA-A*02:01×CD3",
+  "category": "TCR×CD3"
+ },
+ {
+  "canonical": "IBI389",
+  "aliases": [
+   "信达生物"
+  ],
+  "target": "CLDN18.2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "AMG 910",
+  "aliases": [
+   "Amgen"
+  ],
+  "target": "CLDN18.2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "REGN4336",
+  "aliases": [
+   "Regeneron"
+  ],
+  "target": "PSMA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "PF-07062119",
+  "aliases": [
+   "Pfizer"
+  ],
+  "target": "GUCY2C×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Tidutamab",
+  "aliases": [
+   "XmAb18087",
+   "Xencor"
+  ],
+  "target": "SSTR2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "Nivatrotamab",
+  "aliases": [
+   "Hu3F8-BsAb",
+   "hu3F8 bispecific",
+   "hu3F8×CD3 bispecific",
+   "Y-mAbs/MSK"
+  ],
+  "target": "GD2×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "MGD007",
+  "aliases": [
+   "MacroGenics"
+  ],
+  "target": "gpA33×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "HPN536",
+  "aliases": [
+   "Harpoon"
+  ],
+  "target": "MSLN×CD3×albumin",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "AMG 596",
+  "aliases": [
+   "Amgen"
+  ],
+  "target": "EGFRvIII×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "IMC-C103C",
+  "aliases": [
+   "Immunocore"
+  ],
+  "target": "MAGE-A4 peptide–HLA-A*02:01×CD3",
+  "category": "TCR×CD3"
+ },
+ {
+  "canonical": "Solitomab",
+  "aliases": [
+   "MT110",
+   "Amgen"
+  ],
+  "target": "EpCAM×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "PF-06671008",
+  "aliases": [
+   "Pfizer"
+  ],
+  "target": "P-cadherin×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "ZGGS34",
+  "aliases": [
+   "泽璟生物 Suzhou Zelgen"
+  ],
+  "target": "MUC17×CD3×CD28",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "HPN424",
+  "aliases": [
+   "Harpoon"
+  ],
+  "target": "PSMA×CD3×albumin",
+  "category": "TriTAC·三特异"
+ },
+ {
+  "canonical": "Pasotuxizumab",
+  "aliases": [
+   "AMG 212",
+   "BAY 2010112",
+   "Amgen/Bayer"
+  ],
+  "target": "PSMA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "AMG 211",
+  "aliases": [
+   "MEDI-565",
+   "Amgen/MedImmune"
+  ],
+  "target": "CEA×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "BI 836909",
+  "aliases": [
+   "Boehringer Ingelheim"
+  ],
+  "target": "DLL3×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "GEN1044",
+  "aliases": [
+   "Genmab"
+  ],
+  "target": "5T4×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "GEN1047",
+  "aliases": [
+   "Genmab"
+  ],
+  "target": "B7-H4×CD3",
+  "category": "常规抗体TCE"
+ },
+ {
+  "canonical": "VIR-5818",
+  "aliases": [
+   "AMX-818",
+   "SAR446368",
+   "Vir Biotechnology（原 Amunix/Sanofi）"
+  ],
+  "target": "HER2×CD3",
+  "category": "条件激活"
+ }
+]

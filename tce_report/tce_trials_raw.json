@@ -1,0 +1,3132 @@
+{
+  "Tarlatamab (Imdelltra)": {
+    "meta": {
+      "query": "tarlatamab",
+      "target": "DLL3×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": "已上市(SCLC)"
+    },
+    "query_notes": [
+      "intr 'tarlatamab': 37 hits"
+    ],
+    "trial_count": 37,
+    "trials": [
+      {
+        "NCTId": "NCT03319940",
+        "BriefTitle": "Study Evaluating Safety, Tolerability and Pharmacokinetics (PK) of Tarlatamab in Adults With Small Cell Lung Cancer (SCLC)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Pembrolizumab; CRS Mitigation Strategies",
+        "StartDate": "2017-12-26",
+        "LastUpdatePostDate": "2025-11-19",
+        "HasResults": false,
+        "EnrollmentCount": 269
+      },
+      {
+        "NCTId": "NCT04702737",
+        "BriefTitle": "A Study of AMG 757 in Participants With Neuroendocrine Prostate Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2021-06-10",
+        "LastUpdatePostDate": "2025-09-12",
+        "HasResults": true,
+        "EnrollmentCount": 41
+      },
+      {
+        "NCTId": "NCT04885998",
+        "BriefTitle": "AMG 757 and AMG 404 in Subjects With Small Cell Lung Cancer (SCLC)",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; AMG 404",
+        "StartDate": "2021-09-27",
+        "LastUpdatePostDate": "2025-09-29",
+        "HasResults": true,
+        "EnrollmentCount": 23
+      },
+      {
+        "NCTId": "NCT05060016",
+        "BriefTitle": "A Phase 2 Study of Tarlatamab in Patients With Small Cell Lung Cancer (SCLC)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2021-12-01",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 222
+      },
+      {
+        "NCTId": "NCT05361395",
+        "BriefTitle": "First-Line Tarlatamab in Combination With Carboplatin, Etoposide, and PD-L1 Inhibitor in Subjects With Extensive Stage Small Cell Lung Cancer (ES-SCLC)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Carboplatin; Etoposide; Atezolizumab; Durvalumab",
+        "StartDate": "2022-08-24",
+        "LastUpdatePostDate": "2026-03-03",
+        "HasResults": false,
+        "EnrollmentCount": 184
+      },
+      {
+        "NCTId": "NCT05740566",
+        "BriefTitle": "Study Comparing Tarlatamab With Standard of Care Chemotherapy in Relapsed Small Cell Lung Cancer",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Lurbinectedin; Topotecan; Amrubicin",
+        "StartDate": "2023-05-31",
+        "LastUpdatePostDate": "2026-01-05",
+        "HasResults": true,
+        "EnrollmentCount": 509
+      },
+      {
+        "NCTId": "NCT06064500",
+        "BriefTitle": "Tarlatamab (AMG 757) Expanded Access Protocol for Advanced Small Cell Lung Cancer",
+        "OverallStatus": "APPROVED_FOR_MARKETING",
+        "Phase": "NA",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "",
+        "LastUpdatePostDate": "2025-03-10",
+        "HasResults": false,
+        "EnrollmentCount": ""
+      },
+      {
+        "NCTId": "NCT06117774",
+        "BriefTitle": "Study Evaluating Tarlatamab After Chemoradiotherapy in Limited-Stage Small-Cell Lung Cancer (LS-SCLC)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Placebo",
+        "StartDate": "2024-02-20",
+        "LastUpdatePostDate": "2026-04-29",
+        "HasResults": false,
+        "EnrollmentCount": 404
+      },
+      {
+        "NCTId": "NCT06211036",
+        "BriefTitle": "Study Comparing Tarlatamab and Durvalumab Versus Durvalumab Alone in First-Line Extensive-Stage Small-Cell Lung Cancer (ES-SCLC) Following Platinum, Etoposide and Durvalumab",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Durvalumab",
+        "StartDate": "2024-06-05",
+        "LastUpdatePostDate": "2025-12-17",
+        "HasResults": false,
+        "EnrollmentCount": 563
+      },
+      {
+        "NCTId": "NCT06502977",
+        "BriefTitle": "Study Evaluating Tarlatamab in Chinese Participants With Advanced Small Cell Lung Cancer After Two or More Prior Lines of Treatment",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2024-08-27",
+        "LastUpdatePostDate": "2026-07-09",
+        "HasResults": true,
+        "EnrollmentCount": 32
+      },
+      {
+        "NCTId": "NCT06551142",
+        "BriefTitle": "A Study of GSK5764227 in Participants With Advanced Solid Tumors (EMBOLD)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "GlaxoSmithKline",
+        "InterventionName": "Ris-Rez; Cisplatin; Carboplatin; Atezolizumab; Pembrolizumab; Durvalumab; Cetuximab; Bevacizumab; Tarlatamab; Dostarlimab",
+        "StartDate": "2024-09-30",
+        "LastUpdatePostDate": "2026-05-22",
+        "HasResults": false,
+        "EnrollmentCount": 845
+      },
+      {
+        "NCTId": "NCT06598306",
+        "BriefTitle": "Subcutaneous Tarlatamab in Participants With Extensive Stage Small Cell Lung Cancer (DeLLphi-308)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2024-10-07",
+        "LastUpdatePostDate": "2026-06-26",
+        "HasResults": false,
+        "EnrollmentCount": 220
+      },
+      {
+        "NCTId": "NCT06745323",
+        "BriefTitle": "A Phase 2, Open-label, Randomized, Multicenter Study of Tarlatamab Dosing Regimens in Subjects With SCLC",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-02-26",
+        "LastUpdatePostDate": "2026-03-03",
+        "HasResults": false,
+        "EnrollmentCount": 252
+      },
+      {
+        "NCTId": "NCT06776250",
+        "BriefTitle": "Study of How Safe and Effective Tarlatamab is in Brain Cancers",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "University Health Network, Toronto",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-08-18",
+        "LastUpdatePostDate": "2025-09-19",
+        "HasResults": false,
+        "EnrollmentCount": 44
+      },
+      {
+        "NCTId": "NCT06788938",
+        "BriefTitle": "Tarlatamab in Advanced Delta-like 3 (DLL3)-Expressing Tumors Including Neuroendocrine Neoplasms",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Jonsson Comprehensive Cancer Center",
+        "InterventionName": "Tarlatamab treatment",
+        "StartDate": "2025-03-21",
+        "LastUpdatePostDate": "2026-05-18",
+        "HasResults": false,
+        "EnrollmentCount": 29
+      },
+      {
+        "NCTId": "NCT06814496",
+        "BriefTitle": "Radiation Combined With BIspecific T-Cell Engager in DLL3 Expressing Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "University of Arizona",
+        "InterventionName": "Tarlatamab; Concurrent Radiation Therapy; Sequential Radiation therapy",
+        "StartDate": "2025-09-08",
+        "LastUpdatePostDate": "2026-07-20",
+        "HasResults": false,
+        "EnrollmentCount": 30
+      },
+      {
+        "NCTId": "NCT06816394",
+        "BriefTitle": "Tarlatamab for Advanced Extrapulmonary Small Cell Carcinoma and Neuroendocrine Carcinoma (TAURUS)",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "National Taiwan University Hospital",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-05-15",
+        "LastUpdatePostDate": "2025-02-10",
+        "HasResults": false,
+        "EnrollmentCount": 32
+      },
+      {
+        "NCTId": "NCT06830694",
+        "BriefTitle": "Clinical Trial for Safety and Effectiveness Evaluation of Tarlatamab (AMG757) With Etoposide, Carboplatin and Atezolizumab in Transformed Small Cell Lung Cancer Patients From Adenocarcinoma After EGFR TKI Treatment",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Se-Hoon Lee",
+        "InterventionName": "Atezolizumab, Etoposide, Carboplatin, Tarlatamab",
+        "StartDate": "2025-05-13",
+        "LastUpdatePostDate": "2026-02-23",
+        "HasResults": false,
+        "EnrollmentCount": 50
+      },
+      {
+        "NCTId": "NCT06893783",
+        "BriefTitle": "Efficacy and Safety Evaluation of Tarlatamab in Advanced Extrapulmonary Neuroendocrine Carcinoma Patients",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Inkeun Park",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-09-02",
+        "LastUpdatePostDate": "2026-04-13",
+        "HasResults": false,
+        "EnrollmentCount": 60
+      },
+      {
+        "NCTId": "NCT06898957",
+        "BriefTitle": "Study of Tarlatamab in Combination With YL201 With or Without Anti-programmed Death Ligand 1 (PD-L1) in Participants With Extensive Stage (ES) Small Cell Lung Cancer (SCLC)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "YL201; Tarlatamab; Durvalumab",
+        "StartDate": "2025-05-16",
+        "LastUpdatePostDate": "2026-05-20",
+        "HasResults": false,
+        "EnrollmentCount": 29
+      },
+      {
+        "NCTId": "NCT06937905",
+        "BriefTitle": "Tarlatamab vs Standard of Care Chemotherapy in Patients With Pre-treated Advanced, Pulmonary or Gastroenteropancreatic Poorly Differentiated Neuroendocrine Carcinomas (NECs)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Intergroupe Francophone de Cancerologie Thoracique",
+        "InterventionName": "Standard of Care Chemotherapy; Tarlatamab",
+        "StartDate": "2026-02-06",
+        "LastUpdatePostDate": "2026-02-11",
+        "HasResults": false,
+        "EnrollmentCount": 129
+      },
+      {
+        "NCTId": "NCT06957314",
+        "BriefTitle": "A Study of Hospital-at-Home for People Receiving Tarlatamab",
+        "OverallStatus": "RECRUITING",
+        "Phase": "NA",
+        "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+        "InterventionName": "Hospital-at-Home/HAH",
+        "StartDate": "2025-04-23",
+        "LastUpdatePostDate": "2026-06-12",
+        "HasResults": false,
+        "EnrollmentCount": 70
+      },
+      {
+        "NCTId": "NCT07005128",
+        "BriefTitle": "A Study Comparing Tarlatamab, Durvalumab, Carboplatin, and Etoposide Versus Durvalumab, Carboplatin, and Etoposide in First-line Extensive Stage Small-Cell Lung Cancer (ES-SCLC)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; Durvalumab; Carboplatin; Etoposide",
+        "StartDate": "2025-08-18",
+        "LastUpdatePostDate": "2026-07-16",
+        "HasResults": false,
+        "EnrollmentCount": 330
+      },
+      {
+        "NCTId": "NCT07016230",
+        "BriefTitle": "Study Investigating Tarlatamab (AMG 757) in Patients With Metastatic/Locally Advanced Small-Cell Lung Cancer (SCLC) and Other Poorly Differentiated Neuroendocrine Carcinomas (NECs), With Biomarker Analysis to Characterize Response/Resistance (UNLOCK TARLATAMAB)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Gustave Roussy, Cancer Campus, Grand Paris",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-07-02",
+        "LastUpdatePostDate": "2025-11-26",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT07037758",
+        "BriefTitle": "A Study of Tarlatamab in Combination With AB248 in Participants With Extensive Stage Small Cell Lung Cancer (DeLLphi-311)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Tarlatamab; AB248",
+        "StartDate": "2025-09-16",
+        "LastUpdatePostDate": "2026-05-29",
+        "HasResults": false,
+        "EnrollmentCount": 380
+      },
+      {
+        "NCTId": "NCT07061080",
+        "BriefTitle": "Refractory Advanced diGestive Neuroendocrine Carcinomas Treated With tARlatamab",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Grupo Espanol de Tumores Neuroendocrinos",
+        "InterventionName": "Tarlatamab; standard of care second-line chemotherapy (FOLFIRI)",
+        "StartDate": "2025-12-18",
+        "LastUpdatePostDate": "2026-02-04",
+        "HasResults": false,
+        "EnrollmentCount": 87
+      },
+      {
+        "NCTId": "NCT07111507",
+        "BriefTitle": "A Study of Tarlatamab for People With Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Memorial Sloan Kettering Cancer Center",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2025-07-31",
+        "LastUpdatePostDate": "2026-06-17",
+        "HasResults": false,
+        "EnrollmentCount": 32
+      },
+      {
+        "NCTId": "NCT07203053",
+        "BriefTitle": "A Trial of Tarlatamab in Patients With Pretreated Extensive-stage Small Cell Lung Cancer (ES-SCLC) and ECOG PS 2",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "ETOP IBCSG Partners Foundation",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2026-04-15",
+        "LastUpdatePostDate": "2026-07-16",
+        "HasResults": false,
+        "EnrollmentCount": 48
+      },
+      {
+        "NCTId": "NCT07242547",
+        "BriefTitle": "Study of Tarlatamab as Maintenance Treatment After Chemo-radiotherapy for Limited Stage SCLC Patients",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Fundación GECP",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2026-05-20",
+        "LastUpdatePostDate": "2026-07-08",
+        "HasResults": false,
+        "EnrollmentCount": 37
+      },
+      {
+        "NCTId": "NCT07243470",
+        "BriefTitle": "Combination of Tarlatamab and Temozolomide in Patients With Central Nervous System Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Centre Leon Berard",
+        "InterventionName": "Tarlatamab; Temozolomide (TMZ)",
+        "StartDate": "2025-11-04",
+        "LastUpdatePostDate": "2026-05-27",
+        "HasResults": false,
+        "EnrollmentCount": 70
+      },
+      {
+        "NCTId": "NCT07328490",
+        "BriefTitle": "Bispecific T-Cell Engager Tarlatamab and TROP2 Targeted Antibody Drug Conjugate Sacituzumab Govitecan in Previously Treated Extensive-Stage Small Cell Lung Cancer and Extrapulmonary Neuroendocrine Cancer",
+        "OverallStatus": "WITHDRAWN",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "National Cancer Institute (NCI)",
+        "InterventionName": "Tarlatamab; Sacituzumab Govitecan",
+        "StartDate": "2026-04-25",
+        "LastUpdatePostDate": "2026-04-28",
+        "HasResults": false,
+        "EnrollmentCount": 0
+      },
+      {
+        "NCTId": "NCT07402343",
+        "BriefTitle": "Tarlatamab for SCLC Brain Metastases",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Maastricht University Medical Center",
+        "InterventionName": "Tarlatamab",
+        "StartDate": "2026-08",
+        "LastUpdatePostDate": "2026-07-31",
+        "HasResults": false,
+        "EnrollmentCount": 35
+      },
+      {
+        "NCTId": "NCT07423585",
+        "BriefTitle": "Tarlatamab for the Treatment of Extensive Stage Small-cell Lung Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Asrar Alahmadi",
+        "InterventionName": "Biopsy Procedure; Biospecimen Collection; Computed Tomography; Echocardiography Test; Electronic Health Record Review; Magnetic Resonance Imaging; Multigated Acquisition Scan; Questionnaire Administration; Tarlatamab",
+        "StartDate": "2026-03-20",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 39
+      },
+      {
+        "NCTId": "NCT07468656",
+        "BriefTitle": "SCLC Tarlatamab Blood Collection",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "NA",
+        "LeadSponsorName": "Duke University",
+        "InterventionName": "",
+        "StartDate": "2026-07",
+        "LastUpdatePostDate": "2026-06-03",
+        "HasResults": false,
+        "EnrollmentCount": 25
+      },
+      {
+        "NCTId": "NCT07531095",
+        "BriefTitle": "Study of Tarlatamab + ZL-1310 +/- Anti-programmed Death Ligand 1 (Anti-PD-L1) in Small Cell Lung Cancer (SCLC)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "ZL-1310; Tarlatamab; Durvalumab",
+        "StartDate": "2026-04-21",
+        "LastUpdatePostDate": "2026-05-29",
+        "HasResults": false,
+        "EnrollmentCount": 160
+      },
+      {
+        "NCTId": "NCT07637513",
+        "BriefTitle": "Tarlatamab and Durvalumab vs. Durvalumab Alone for Limited-Stage-Small Cell Lung Cancer",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "PrECOG, LLC.",
+        "InterventionName": "Tarlatamab; Durvalumab",
+        "StartDate": "2027-01",
+        "LastUpdatePostDate": "2026-06-09",
+        "HasResults": false,
+        "EnrollmentCount": 430
+      },
+      {
+        "NCTId": "NCT07699237",
+        "BriefTitle": "A Multicenter Phase II Trial to Evaluate Rechallenge With Platinum-based Chemotherapy (Carboplatin, Etoposide) for Progression During Tarlatamab Therapy in Relapsed Extensive Disease Small-cell Lung Cancer (SCLC)",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "University of Cologne",
+        "InterventionName": "Tarlatamab, Carboplatin, Etoposid",
+        "StartDate": "2026-11-01",
+        "LastUpdatePostDate": "2026-07-13",
+        "HasResults": false,
+        "EnrollmentCount": 54
+      }
+    ]
+  },
+  "Tebentafusp/IMCgp100 (Kimmtrak)": {
+    "meta": {
+      "query": "tebentafusp",
+      "target": "gp100 peptide–HLA-A*02:01×CD3",
+      "company": "Immunocore",
+      "category": "TCR×CD3",
+      "note": "已上市(葡萄膜黑色素瘤)"
+    },
+    "query_notes": [
+      "intr 'tebentafusp': 20 hits",
+      "intr 'IMCgp100': 13 hits"
+    ],
+    "trial_count": 23,
+    "trials": [
+      {
+        "NCTId": "NCT01209676",
+        "BriefTitle": "IMCgp100 in Advanced Unresectable Melanoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "EARLY_PHASE1",
+        "LeadSponsorName": "University of Pennsylvania",
+        "InterventionName": "IMCgp100 injection",
+        "StartDate": "2010-09",
+        "LastUpdatePostDate": "2016-11-15",
+        "HasResults": false,
+        "EnrollmentCount": 1
+      },
+      {
+        "NCTId": "NCT01211262",
+        "BriefTitle": "Study to Assess the Tolerability of a Bispecific Targeted Biologic IMCgp100 in Malignant Melanoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "IMCgp100",
+        "StartDate": "2010-09-28",
+        "LastUpdatePostDate": "2020-07-08",
+        "HasResults": true,
+        "EnrollmentCount": 84
+      },
+      {
+        "NCTId": "NCT02535078",
+        "BriefTitle": "Phase 1b/2 Study of the Combination of IMCgp100 With Durvalumab and/or Tremelimumab in Advanced Cutaneous Melanoma",
+        "OverallStatus": "WITHDRAWN",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Tebentafusp (IMCgp100)",
+        "StartDate": "2015-11",
+        "LastUpdatePostDate": "2024-07-24",
+        "HasResults": false,
+        "EnrollmentCount": 0
+      },
+      {
+        "NCTId": "NCT02570308",
+        "BriefTitle": "A Study of the Intra-Patient Escalation Dosing Regimen With IMCgp100 in Patients With Advanced Uveal Melanoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "IMCgp100",
+        "StartDate": "2016-02-29",
+        "LastUpdatePostDate": "2023-03-21",
+        "HasResults": true,
+        "EnrollmentCount": 146
+      },
+      {
+        "NCTId": "NCT02889861",
+        "BriefTitle": "IMCgp100-401 Rollover Study",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "IMCgp100",
+        "StartDate": "2017-01-11",
+        "LastUpdatePostDate": "2020-07-27",
+        "HasResults": true,
+        "EnrollmentCount": 3
+      },
+      {
+        "NCTId": "NCT03070392",
+        "BriefTitle": "Safety and Efficacy of IMCgp100 Versus Investigator Choice in Advanced Uveal Melanoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "IMCgp100; Dacarbazine; Ipilimumab; Pembrolizumab",
+        "StartDate": "2017-10-16",
+        "LastUpdatePostDate": "2026-03-17",
+        "HasResults": true,
+        "EnrollmentCount": 378
+      },
+      {
+        "NCTId": "NCT04262466",
+        "BriefTitle": "Safety and Efficacy of IMC-F106C as a Single Agent and in Combination With Checkpoint Inhibitors",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Brenetafusp; Brenetafusp and pembrolizumab; Brenetafusp and chemotherapy; Brenetafusp and monoclonal antibodies and chemotherapy; Brenetafusp and tebentafusp; Brenetafusp and bevacizumab; Brenetafusp and kinase inhibitors",
+        "StartDate": "2020-02-25",
+        "LastUpdatePostDate": "2026-03-06",
+        "HasResults": false,
+        "EnrollmentCount": 410
+      },
+      {
+        "NCTId": "NCT04960891",
+        "BriefTitle": "A Cohort IND Expanded Access Program for Supporting Patient Access to Tebentafusp",
+        "OverallStatus": "AVAILABLE",
+        "Phase": "NA",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Tebentafusp",
+        "StartDate": "",
+        "LastUpdatePostDate": "2022-01-21",
+        "HasResults": false,
+        "EnrollmentCount": ""
+      },
+      {
+        "NCTId": "NCT05088395",
+        "BriefTitle": "Analysis of Circulating Tumor mArkers in Blood 4 - ALCINA 4",
+        "OverallStatus": "RECRUITING",
+        "Phase": "NA",
+        "LeadSponsorName": "Institut Curie",
+        "InterventionName": "Blood sample; Biopsy",
+        "StartDate": "2022-05-19",
+        "LastUpdatePostDate": "2026-04-14",
+        "HasResults": false,
+        "EnrollmentCount": 2050
+      },
+      {
+        "NCTId": "NCT05315258",
+        "BriefTitle": "Tebentafusp in Molecular Relapsed Disease (MRD) Melanoma",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "University of Oxford",
+        "InterventionName": "Tebentafusp",
+        "StartDate": "2022-07-25",
+        "LastUpdatePostDate": "2025-07-17",
+        "HasResults": false,
+        "EnrollmentCount": 850
+      },
+      {
+        "NCTId": "NCT05415072",
+        "BriefTitle": "A Phase I/II Study of DYP688 in Patients With Metastatic Uveal Melanoma and Other GNAQ/11 Mutant Melanomas",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Novartis Pharmaceuticals",
+        "InterventionName": "DYP688",
+        "StartDate": "2022-07-04",
+        "LastUpdatePostDate": "2026-07-28",
+        "HasResults": false,
+        "EnrollmentCount": 66
+      },
+      {
+        "NCTId": "NCT05549297",
+        "BriefTitle": "Tebentafusp Regimen Versus Investigator's Choice in Previously Treated Advanced Melanoma (TEBE-AM)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Tebentafusp; Tebentafusp with Pembrolizumab; Investigators Choice",
+        "StartDate": "2022-12-19",
+        "LastUpdatePostDate": "2026-02-25",
+        "HasResults": false,
+        "EnrollmentCount": 540
+      },
+      {
+        "NCTId": "NCT05785754",
+        "BriefTitle": "DCSZ11 as a Monotherapy and in Combination in Patients With Advanced or Metastatic Solid Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "DynamiCure Biotechnology",
+        "InterventionName": "DCSZ11; Pembrolizumab; Doxorubicin; Tebentafusp",
+        "StartDate": "2023-06-28",
+        "LastUpdatePostDate": "2025-06-26",
+        "HasResults": false,
+        "EnrollmentCount": 320
+      },
+      {
+        "NCTId": "NCT06070012",
+        "BriefTitle": "Tebentafusp in HLA-A*0201 Positive Previously Untreated Metastatic Uveal Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Diwakar Davar",
+        "InterventionName": "Tebentafusp",
+        "StartDate": "2025-08-18",
+        "LastUpdatePostDate": "2026-02-27",
+        "HasResults": false,
+        "EnrollmentCount": 44
+      },
+      {
+        "NCTId": "NCT06246149",
+        "BriefTitle": "Adjuvant Tebentafusp in High Risk Ocular Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "European Organisation for Research and Treatment of Cancer - EORTC",
+        "InterventionName": "Tebentafusp",
+        "StartDate": "2024-11-11",
+        "LastUpdatePostDate": "2026-06-30",
+        "HasResults": false,
+        "EnrollmentCount": 290
+      },
+      {
+        "NCTId": "NCT06414590",
+        "BriefTitle": "Neoadjuvant Tebentafusp for Uveal Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Thomas Jefferson University",
+        "InterventionName": "Tebentafusp-Tebn",
+        "StartDate": "2025-09-05",
+        "LastUpdatePostDate": "2026-06-12",
+        "HasResults": false,
+        "EnrollmentCount": 19
+      },
+      {
+        "NCTId": "NCT06626516",
+        "BriefTitle": "Tebentafusp-tebn With LDT in Metastatic UM",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Thomas Jefferson University",
+        "InterventionName": "Tebentafusp-Tebn; GM-CSF (Sargramostim); BCNU",
+        "StartDate": "2025-10-15",
+        "LastUpdatePostDate": "2026-07-21",
+        "HasResults": false,
+        "EnrollmentCount": 109
+      },
+      {
+        "NCTId": "NCT06627244",
+        "BriefTitle": "Study of Tebentafusp and Radioembolization in the Treatment of Metastatic Uveal Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "University of Miami",
+        "InterventionName": "Tebentafusp; TheraSphere™ Yttrium-90 Trans-Arterial Radioembolization",
+        "StartDate": "2025-02-14",
+        "LastUpdatePostDate": "2026-02-23",
+        "HasResults": false,
+        "EnrollmentCount": 30
+      },
+      {
+        "NCTId": "NCT06942442",
+        "BriefTitle": "A Phase II Trial of Tebentafusp in HLA-A*02:01 Positive Patients With Advanced Clear Cell Sarcoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Sarcoma Alliance for Research through Collaboration",
+        "InterventionName": "Physician's Choice; Tebentafusp",
+        "StartDate": "2025-10-22",
+        "LastUpdatePostDate": "2025-12-26",
+        "HasResults": false,
+        "EnrollmentCount": 47
+      },
+      {
+        "NCTId": "NCT07057596",
+        "BriefTitle": "Neoadjuvant Tebentafusp in Patients With Metastatic Uveal Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Grupo Español Multidisciplinar de Melanoma",
+        "InterventionName": "Tebentafusp",
+        "StartDate": "2025-07-18",
+        "LastUpdatePostDate": "2026-03-06",
+        "HasResults": false,
+        "EnrollmentCount": 19
+      },
+      {
+        "NCTId": "NCT07063875",
+        "BriefTitle": "Adding IL-2 to Tebentafusp to Eradicate Cancer Progression",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "St Vincent's Hospital, Sydney",
+        "InterventionName": "Aldesleukin",
+        "StartDate": "2025-06-01",
+        "LastUpdatePostDate": "2025-07-14",
+        "HasResults": false,
+        "EnrollmentCount": 8
+      },
+      {
+        "NCTId": "NCT07203391",
+        "BriefTitle": "Tebentafusp and Roginolisib in Uveal Melanoma to Prolong T-cell Homeostasis",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "St Vincent's Hospital, Sydney",
+        "InterventionName": "roginolisib",
+        "StartDate": "2026-02-01",
+        "LastUpdatePostDate": "2026-04-23",
+        "HasResults": false,
+        "EnrollmentCount": 8
+      },
+      {
+        "NCTId": "NCT07276386",
+        "BriefTitle": "Phase 2 Combination of Melphalan/HDS Via PHP + Tebentafusp in Treating Metastatic Uveal Melanoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "H. Lee Moffitt Cancer Center and Research Institute",
+        "InterventionName": "Melphalan/HDS (Percutaneous Hepatic Perfusion); Tebentafusp",
+        "StartDate": "2025-12-31",
+        "LastUpdatePostDate": "2026-03-31",
+        "HasResults": false,
+        "EnrollmentCount": 18
+      }
+    ]
+  },
+  "Catumaxomab (Korjuny/Removab)": {
+    "meta": {
+      "query": "catumaxomab",
+      "target": "EpCAM×CD3",
+      "company": "Lindis/Neovii",
+      "category": "常规抗体TCE",
+      "note": "2025-02-10 以 Korjuny 获 EU 上市许可(EMA EPAR); 旧品牌 Removab 曾撤市"
+    },
+    "query_notes": [
+      "intr 'catumaxomab': 18 hits"
+    ],
+    "trial_count": 18,
+    "trials": [
+      {
+        "NCTId": "NCT00189345",
+        "BriefTitle": "Randomized, Multicenter, 2-Dose Level. Open-Label, Phase IIa Study With the Intraperitoneally Infused Trifunctional Bispecific Antibody Removab(TM) (Anti-EpCAM x Anti-CD3) to Select the Better Dose Level in Platinum Refractory Epithelial Ovarian Cancer Patients",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "AGO Study Group",
+        "InterventionName": "anti-EpCAM x anti-CD3 (removab)",
+        "StartDate": "2004-05",
+        "LastUpdatePostDate": "2006-11-08",
+        "HasResults": false,
+        "EnrollmentCount": 44
+      },
+      {
+        "NCTId": "NCT00326885",
+        "BriefTitle": "Study of the Trifunctional Antibody Catumaxomab to Treat Recurrent Symptomatic Malignant Ascites",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "catumaxomab",
+        "StartDate": "2006-06",
+        "LastUpdatePostDate": "2018-10-17",
+        "HasResults": true,
+        "EnrollmentCount": 32
+      },
+      {
+        "NCTId": "NCT00352833",
+        "BriefTitle": "Safety and Efficacy Study With Catumaxomab in Patients After Curative Resection of a Gastric Adenocarcinoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "catumaxomab",
+        "StartDate": "2006-07",
+        "LastUpdatePostDate": "2007-10-26",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT00377429",
+        "BriefTitle": "Safety and Efficacy Study of Catumaxomab to Treat Ovarian Cancer After a Complete Response to Chemotherapy",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "catumaxomab",
+        "StartDate": "2006-09",
+        "LastUpdatePostDate": "2012-07-19",
+        "HasResults": true,
+        "EnrollmentCount": 47
+      },
+      {
+        "NCTId": "NCT00464893",
+        "BriefTitle": "Phase II Study With Catumaxomab in Patients With Gastric Cancer After Neoadjuvant CTx and Curative Resection",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "Catumaxomab; catumaxomab",
+        "StartDate": "2007-04",
+        "LastUpdatePostDate": "2013-12-04",
+        "HasResults": false,
+        "EnrollmentCount": 70
+      },
+      {
+        "NCTId": "NCT00563836",
+        "BriefTitle": "Phase II Study of the Trifunctional Antibody Catumaxomab Administered Intra- and Postoperatively in Patients With Ovarian Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "Catumaxomab",
+        "StartDate": "2007-11",
+        "LastUpdatePostDate": "2012-10-03",
+        "HasResults": false,
+        "EnrollmentCount": 41
+      },
+      {
+        "NCTId": "NCT00822809",
+        "BriefTitle": "CASIMAS: Catumaxomab Safety Phase IIIb Study With Intraperitoneal Infusion in Patients With Malignant Ascites Due to Epithelial Cancers",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "Catumaxomab; Prednisolone",
+        "StartDate": "2008-12",
+        "LastUpdatePostDate": "2012-10-03",
+        "HasResults": false,
+        "EnrollmentCount": 230
+      },
+      {
+        "NCTId": "NCT00836654",
+        "BriefTitle": "Study in EpCAM Positive Patients With Symptomatic Malignant Ascites Using Removab Versus an Untreated Control Group",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2_PHASE3",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "Catumaxomab (Removab); paracentesis",
+        "StartDate": "2004-09",
+        "LastUpdatePostDate": "2009-02-05",
+        "HasResults": false,
+        "EnrollmentCount": 258
+      },
+      {
+        "NCTId": "NCT01065246",
+        "BriefTitle": "Safety Study of Second Intraperitoneal (I.P.) Infusion Cycle of Catumaxomab in Patients With Malignant Ascites",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "catumaxomab",
+        "StartDate": "2009-11",
+        "LastUpdatePostDate": "2012-10-03",
+        "HasResults": false,
+        "EnrollmentCount": 8
+      },
+      {
+        "NCTId": "NCT01246440",
+        "BriefTitle": "Catumaxomab as a Consolidation Therapy in Patients With Ovarian Cancer in Second or Third Clinical Disease Remission",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Grupo Español de Investigación en Cáncer de Ovario",
+        "InterventionName": "Catumaxomab",
+        "StartDate": "2010-06",
+        "LastUpdatePostDate": "2016-08-11",
+        "HasResults": false,
+        "EnrollmentCount": 39
+      },
+      {
+        "NCTId": "NCT01320020",
+        "BriefTitle": "A Open Label, Dose Escalating Study to Evaluate the Safety and Tolerability of Ascending Intravenous (i.v.) Doses of Catumaxomab in Epithelial Cancer Patients",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "catumaxomab",
+        "StartDate": "2011-02",
+        "LastUpdatePostDate": "2013-07-02",
+        "HasResults": false,
+        "EnrollmentCount": 16
+      },
+      {
+        "NCTId": "NCT01504256",
+        "BriefTitle": "Catumaxomab for Treatment of Peritoneal Carcinomatosis in Patients With Gastric Adenocarcinomas",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "AIO-Studien-gGmbH",
+        "InterventionName": "catumaxomab, Fluorouracil, leucovorin, oxaliplatin, docetaxel; Fluorouracil, leucovorin, oxaliplatin, docetaxel",
+        "StartDate": "2011-10",
+        "LastUpdatePostDate": "2018-01-23",
+        "HasResults": false,
+        "EnrollmentCount": 42
+      },
+      {
+        "NCTId": "NCT01784900",
+        "BriefTitle": "Treatment of Gastric Peritoneal Carcinomatosis by Association of Complete Surgical Resection of the Lesions and Intraperitoneal Immunotherapy Using Catumaxomab",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Gustave Roussy, Cancer Campus, Grand Paris",
+        "InterventionName": "Catumaxomab 100µg; Catumaxomab 140µg",
+        "StartDate": "2012-11",
+        "LastUpdatePostDate": "2017-01-26",
+        "HasResults": false,
+        "EnrollmentCount": 26
+      },
+      {
+        "NCTId": "NCT01815528",
+        "BriefTitle": "Feasibility and Clinical Activity of Initial Intraperitoneal Catumaxomab Followed by Chemotherapy in Patients With Recurrent Ovarian Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "JSehouli",
+        "InterventionName": "Catumaxomab",
+        "StartDate": "2013-03",
+        "LastUpdatePostDate": "2015-02-18",
+        "HasResults": false,
+        "EnrollmentCount": 2
+      },
+      {
+        "NCTId": "NCT04222114",
+        "BriefTitle": "Comparing the Efficacy and Safety of Intra-peritoneal Infusion of Catumaxomab and Treatment of Investigator Choice in Patients With Advanced Gastric Carcinoma With Peritoneal Metastasis",
+        "OverallStatus": "UNKNOWN",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "LintonPharm Co.,Ltd.",
+        "InterventionName": "Catumaxomab; The treatment of investigator choice",
+        "StartDate": "2020-10-06",
+        "LastUpdatePostDate": "2023-01-31",
+        "HasResults": false,
+        "EnrollmentCount": 282
+      },
+      {
+        "NCTId": "NCT04799847",
+        "BriefTitle": "Catumaxomab in Patients With Non-Muscle-Invasive Bladder Cancer Who Have Failed or Are Intolerant to BCG Vaccine",
+        "OverallStatus": "UNKNOWN",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "LintonPharm Co.,Ltd.",
+        "InterventionName": "Catumaxomab",
+        "StartDate": "2021-11-23",
+        "LastUpdatePostDate": "2023-02-13",
+        "HasResults": false,
+        "EnrollmentCount": 161
+      },
+      {
+        "NCTId": "NCT04819399",
+        "BriefTitle": "Investigation of Safety and Tolerability of Catumaxomab in Patients With NMIBC",
+        "OverallStatus": "UNKNOWN",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Lindis Biotech GmbH",
+        "InterventionName": "Catumaxomab",
+        "StartDate": "2020-07-07",
+        "LastUpdatePostDate": "2022-04-05",
+        "HasResults": false,
+        "EnrollmentCount": 30
+      },
+      {
+        "NCTId": "NCT06789224",
+        "BriefTitle": "Validation Study on the Removal of EpCAM-positive Tumour Cells From Blood Collected During Tumour Surgery Using Catumaxomab/Catuvab Device",
+        "OverallStatus": "COMPLETED",
+        "Phase": "NA",
+        "LeadSponsorName": "Lindis Bloodcare GmbH",
+        "InterventionName": "CATUVAB",
+        "StartDate": "2022-02-15",
+        "LastUpdatePostDate": "2025-01-23",
+        "HasResults": false,
+        "EnrollmentCount": 136
+      }
+    ]
+  },
+  "Pasritamig/JNJ-78278343": {
+    "meta": {
+      "query": "pasritamig",
+      "target": "KLK2×CD3",
+      "company": "Janssen",
+      "category": "常规抗体TCE",
+      "note": "v2: 靶点由PSMA更正为KLK2"
+    },
+    "query_notes": [
+      "intr 'pasritamig': 6 hits",
+      "intr 'JNJ-78278343': 8 hits"
+    ],
+    "trial_count": 8,
+    "trials": [
+      {
+        "NCTId": "NCT04644770",
+        "BriefTitle": "A Study of JNJ-69086420, an Actinium-225-Labeled Antibody Targeting Human Kallikrein-2 (hK2) for Advanced Prostate Cancer",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "JNJ-69086420; JNJ-78278343; Stereotactic body radiation therapy",
+        "StartDate": "2020-11-12",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 144
+      },
+      {
+        "NCTId": "NCT04898634",
+        "BriefTitle": "A Study of JNJ-78278343, a T-Cell-Redirecting Agent Targeting Human Kallikrein 2 (KLK2), for Advanced Prostate Cancer",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "JNJ-78278343",
+        "StartDate": "2021-07-13",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 216
+      },
+      {
+        "NCTId": "NCT05818683",
+        "BriefTitle": "A Study of Pasritamig (JNJ-78278343) in Combination With Other Agents for Metastatic Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "Pasritamig; Cetrelimab; Cabazitaxel; Docetaxel; Apalutamide; Enzalutamide; Darolutamide; Abiraterone acetate plus prednisone (AAP); Lutetium Lu-177 vipivotide tetraxetan; JNJ-101556143",
+        "StartDate": "2023-04-26",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 300
+      },
+      {
+        "NCTId": "NCT06095089",
+        "BriefTitle": "A Study of JNJ-87189401 Combined With JNJ-78278343 for Advanced Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "JNJ-78278343; JNJ-87189401; Apalutamide; Lutetium Lu-177 Vipivotide Tetraxetan; JNJ-101556143",
+        "StartDate": "2023-11-01",
+        "LastUpdatePostDate": "2026-07-31",
+        "HasResults": false,
+        "EnrollmentCount": 355
+      },
+      {
+        "NCTId": "NCT07082920",
+        "BriefTitle": "A Study of JNJ-78278343 in Combination With JNJ-95298177 for Treatment of Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "JNJ-78278343; JNJ-95298177",
+        "StartDate": "2025-07-07",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 140
+      },
+      {
+        "NCTId": "NCT07164443",
+        "BriefTitle": "A Study of Pasritamig Versus Placebo in Late Line Metastatic Castration-resistant Prostate Cancer (mCRPC)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "Pasritamig; Placebo; Best Supportive Care (BSC)",
+        "StartDate": "2025-09-02",
+        "LastUpdatePostDate": "2026-07-31",
+        "HasResults": false,
+        "EnrollmentCount": 1203
+      },
+      {
+        "NCTId": "NCT07225946",
+        "BriefTitle": "A Study of Pasritamig With Docetaxel Versus Docetaxel in Participants With Metastatic Castration-Resistant Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "Pasritamig; Docetaxel; Prednisone/Prednisolone",
+        "StartDate": "2025-12-19",
+        "LastUpdatePostDate": "2026-07-30",
+        "HasResults": false,
+        "EnrollmentCount": 800
+      },
+      {
+        "NCTId": "NCT07319871",
+        "BriefTitle": "A Study of Pasritamig (JNJ-78278343) in Combination With JNJ-86974680 for Treatment of Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janssen Research & Development, LLC",
+        "InterventionName": "Pasritamig; JNJ-86974680",
+        "StartDate": "2026-01-14",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      }
+    ]
+  },
+  "Obrixtamig/BI 764532": {
+    "meta": {
+      "query": "obrixtamig",
+      "target": "DLL3×CD3",
+      "company": "Boehringer Ingelheim",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'obrixtamig': 12 hits",
+      "intr 'BI 764532': 9 hits"
+    ],
+    "trial_count": 12,
+    "trials": [
+      {
+        "NCTId": "NCT04429087",
+        "BriefTitle": "A Study to Test Different Doses of Obrixtamig in Patients With Small Cell Lung Cancer and Other Neuroendocrine Tumours That Are Positive for DLL3",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "Obrixtamig - parenteral 1; Obrixtamig - parenteral 2",
+        "StartDate": "2020-07-29",
+        "LastUpdatePostDate": "2026-07-24",
+        "HasResults": false,
+        "EnrollmentCount": 300
+      },
+      {
+        "NCTId": "NCT05879978",
+        "BriefTitle": "A Study to Test How Well Different Doses of Obrixtamig (BI 764532) in Combination With Ezabenlimab Are Tolerated by People With Small Cell Lung Cancer and Other Neuroendocrine Tumours That Are Positive for DLL3",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "Obrixtamig; Ezabenlimab",
+        "StartDate": "2023-06-27",
+        "LastUpdatePostDate": "2026-04-28",
+        "HasResults": false,
+        "EnrollmentCount": 45
+      },
+      {
+        "NCTId": "NCT05882058",
+        "BriefTitle": "DAREON™-5: A Study to Test Whether Different Doses of BI 764532 Help People With Small Cell Lung Cancer or Other Neuroendocrine Cancers",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532, dose 1; BI 764532, dose 2; Ventana DLL3 RxDx assay",
+        "StartDate": "2023-10-13",
+        "LastUpdatePostDate": "2026-07-23",
+        "HasResults": false,
+        "EnrollmentCount": 204
+      },
+      {
+        "NCTId": "NCT05916313",
+        "BriefTitle": "A Study to Test How Well Different Doses of BI 764532 Are Tolerated by People With a Tumour in the Brain That is Positive for DLL3",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532",
+        "StartDate": "2024-01-30",
+        "LastUpdatePostDate": "2026-06-09",
+        "HasResults": false,
+        "EnrollmentCount": 20
+      },
+      {
+        "NCTId": "NCT05963867",
+        "BriefTitle": "A Study to Test How BI 764532 is Taken up by Tumours in People With Small-cell Lung Cancer or Neuroendocrine Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532; [89Zr]Zr-BI 764532",
+        "StartDate": "2024-08-06",
+        "LastUpdatePostDate": "2026-05-08",
+        "HasResults": false,
+        "EnrollmentCount": 12
+      },
+      {
+        "NCTId": "NCT05990738",
+        "BriefTitle": "DAREON™-9: A Study to Test How Well Different Doses of BI 764532 Are Tolerated by People With Small Cell Lung Cancer When Taken Together With a Single Agent Chemotherapy",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532; Topotecan; Single agent chemotherapy",
+        "StartDate": "2024-02-14",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 69
+      },
+      {
+        "NCTId": "NCT06077500",
+        "BriefTitle": "DAREONᵀᴹ-8: A Study to Test How Well Different Doses of BI 764532 in Addition to Standard of Care Are Tolerated by People With Advanced Small Cell Lung Cancer",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532; Carboplatin; Etoposide; Atezolizumab",
+        "StartDate": "2024-02-14",
+        "LastUpdatePostDate": "2026-07-07",
+        "HasResults": false,
+        "EnrollmentCount": 46
+      },
+      {
+        "NCTId": "NCT06132113",
+        "BriefTitle": "DAREON™-7: A Study to Test How Well Different Doses of BI 764532 in Addition to Chemotherapy Are Tolerated by People With Advanced Neuroendocrine Cancers",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 764532; Carboplatin; Etoposide; Cisplatin",
+        "StartDate": "2024-01-22",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 65
+      },
+      {
+        "NCTId": "NCT07472517",
+        "BriefTitle": "DAREON ® -Lung-1: A Study in People With Advanced Small Cell Lung Cancer to Compare Obrixtamig Plus Atezolizumab, Carboplatin, and Etoposide Treatment With Standard Chemotherapy",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "obrixtamig; atezolizumab; carboplatin; etoposide",
+        "StartDate": "2026-04-13",
+        "LastUpdatePostDate": "2026-07-21",
+        "HasResults": false,
+        "EnrollmentCount": 670
+      },
+      {
+        "NCTId": "NCT07544654",
+        "BriefTitle": "DAREON®-NEC-1: A Study in People With Advanced Extrapulmonary Neuroendocrine Cancer (epNEC) to Compare Obrixtamig Plus Carboplatin and Etoposide Treatment With Standard Chemotherapy",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "Obrixtamig; Carboplatin; Etoposide; Ventana DLL3 RxDx assay",
+        "StartDate": "2026-07-10",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 390
+      },
+      {
+        "NCTId": "NCT07561645",
+        "BriefTitle": "A Trial for the Treatment of Advanced Large-Cell Neuroendocrine Cancer of the Lung",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Technische Universität Dresden",
+        "InterventionName": "Obrixtamig",
+        "StartDate": "2026-07",
+        "LastUpdatePostDate": "2026-05-01",
+        "HasResults": false,
+        "EnrollmentCount": 75
+      },
+      {
+        "NCTId": "NCT07707895",
+        "BriefTitle": "DAREON®-36: A Study to Test Obrixtamig in Combination With ZL-1310 in People With Advanced Small Cell Lung Cancer or Other Neuroendocrine Cancers",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "Obrixtamig; ZL-1310; Atezolizumab",
+        "StartDate": "2026-08-26",
+        "LastUpdatePostDate": "2026-07-24",
+        "HasResults": false,
+        "EnrollmentCount": 60
+      }
+    ]
+  },
+  "HLX3901": {
+    "meta": {
+      "query": "HLX3901",
+      "target": "DLL3×CD3",
+      "company": "复宏汉霖",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'HLX3901': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT07416695",
+        "BriefTitle": "A Phase I Clinical Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of HLX3901 in Patients With Advanced SCLC or NEC",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Shanghai Henlius Biotech",
+        "InterventionName": "HLX3901",
+        "StartDate": "2026-04-17",
+        "LastUpdatePostDate": "2026-07-08",
+        "HasResults": false,
+        "EnrollmentCount": 138
+      }
+    ]
+  },
+  "AZD5863": {
+    "meta": {
+      "query": "AZD5863",
+      "target": "CLDN18.2×CD3",
+      "company": "AstraZeneca",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'AZD5863': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT06005493",
+        "BriefTitle": "Study of AZD5863 in Adult Participants With Advanced or Metastatic Solid Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "AstraZeneca",
+        "InterventionName": "AZD5863",
+        "StartDate": "2023-07-11",
+        "LastUpdatePostDate": "2026-02-24",
+        "HasResults": false,
+        "EnrollmentCount": 280
+      }
+    ]
+  },
+  "ERY974": {
+    "meta": {
+      "query": "ERY974",
+      "target": "GPC3×CD3",
+      "company": "Chugai",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'ERY974': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT02748837",
+        "BriefTitle": "A Study of ERY974 in Patient With Advanced Solid Tumors",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Chugai Pharmaceutical",
+        "InterventionName": "ERY974",
+        "StartDate": "2016-08",
+        "LastUpdatePostDate": "2019-08-22",
+        "HasResults": false,
+        "EnrollmentCount": 29
+      },
+      {
+        "NCTId": "NCT05022927",
+        "BriefTitle": "A Phase I Study of ERY974 in Patients With Hepatocellular Carcinoma",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Chugai Pharmaceutical",
+        "InterventionName": "ERY974; Tocilicumab; Atezolizumab; Bevacizumab",
+        "StartDate": "2021-06-01",
+        "LastUpdatePostDate": "2024-09-05",
+        "HasResults": false,
+        "EnrollmentCount": 179
+      }
+    ]
+  },
+  "Cibisatamab/RO6958688/RO6958689": {
+    "meta": {
+      "query": "cibisatamab",
+      "target": "CEA×CD3",
+      "company": "Roche",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'cibisatamab': 2 hits",
+      "intr 'RO6958688': 3 hits",
+      "intr 0 hits -> term '\"RO6958689\"': 0 hits"
+    ],
+    "trial_count": 5,
+    "trials": [
+      {
+        "NCTId": "NCT02324257",
+        "BriefTitle": "A Study of RO6958688 in Participants With Locally Advanced and/or Metastatic Carcinoembryonic Antigen Positive Solid Tumors",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Hoffmann-La Roche",
+        "InterventionName": "RO6958688; Obinutuzumab; Tocilizumab",
+        "StartDate": "2014-12-30",
+        "LastUpdatePostDate": "2020-04-17",
+        "HasResults": false,
+        "EnrollmentCount": 149
+      },
+      {
+        "NCTId": "NCT02650713",
+        "BriefTitle": "A Study of the Safety, Pharmacokinetics, and Therapeutic Activity of RO6958688 in Combination With Atezolizumab in Participants With Locally Advanced and/or Metastatic Carcinoembryonic Antigen (CEA)-Positive Solid Tumors",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Hoffmann-La Roche",
+        "InterventionName": "Atezolizumab; RO6958688",
+        "StartDate": "2016-01-07",
+        "LastUpdatePostDate": "2020-02-12",
+        "HasResults": false,
+        "EnrollmentCount": 228
+      },
+      {
+        "NCTId": "NCT03337698",
+        "BriefTitle": "A Study Of Multiple Immunotherapy-Based Treatment Combinations In Participants With Metastatic Non-Small Cell Lung Cancer (Morpheus- Non-Small Cell Lung Cancer)",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Hoffmann-La Roche",
+        "InterventionName": "Atezolizumab; Cobimetinib; RO6958688; Docetaxel; CPI-444; Pemetrexed; Carboplatin; Gemcitabine; Linagliptin; Tocilizumab; Ipatasertib; Bevacizumab; Sacituzumab Govitecan; Radiation; Evolocumab; Tiragolumab; XL092; Camonsertib",
+        "StartDate": "2017-12-27",
+        "LastUpdatePostDate": "2026-05-12",
+        "HasResults": true,
+        "EnrollmentCount": 314
+      },
+      {
+        "NCTId": "NCT03866239",
+        "BriefTitle": "A Phase Ib Study to Evaluate the Safety, Efficacy, and Pharmacokinetics of Cibisatamab in Combination With Atezolizumab After Pretreatment With Obinutuzumab in Participants With Previously Treated Metastatic Colorectal Adenocarcinoma",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Hoffmann-La Roche",
+        "InterventionName": "Obinutuzumab; Atezolizumab; Cibisatamab; Tocilizumab",
+        "StartDate": "2019-05-07",
+        "LastUpdatePostDate": "2024-08-09",
+        "HasResults": false,
+        "EnrollmentCount": 47
+      },
+      {
+        "NCTId": "NCT04826003",
+        "BriefTitle": "Study To Evaluate Safety, Pharmacokinetics, Pharmacodynamics, And Preliminary Anti-Tumor Activity Of RO7122290 In Combination With Cibisatamab With Obinutuzumab Pre-Treatment",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Hoffmann-La Roche",
+        "InterventionName": "RO7122290; Cibisatamab; Obinutuzumab",
+        "StartDate": "2021-07-14",
+        "LastUpdatePostDate": "2025-07-14",
+        "HasResults": false,
+        "EnrollmentCount": 54
+      }
+    ]
+  },
+  "Obrindatamab/MGD009": {
+    "meta": {
+      "query": "obrindatamab",
+      "target": "B7-H3×CD3",
+      "company": "MacroGenics",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'obrindatamab': 1 hits",
+      "intr 'MGD009': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT02628535",
+        "BriefTitle": "Safety Study of MGD009 in B7-H3-expressing Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "MacroGenics",
+        "InterventionName": "MGD009",
+        "StartDate": "2015-09",
+        "LastUpdatePostDate": "2022-02-08",
+        "HasResults": false,
+        "EnrollmentCount": 67
+      },
+      {
+        "NCTId": "NCT03406949",
+        "BriefTitle": "MGD009/MGA012 Combination in Relapsed/Refractory Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "MacroGenics",
+        "InterventionName": "obrindatamab; retifanlimab",
+        "StartDate": "2018-02-27",
+        "LastUpdatePostDate": "2022-05-19",
+        "HasResults": false,
+        "EnrollmentCount": 25
+      }
+    ]
+  },
+  "TAK-280": {
+    "meta": {
+      "query": "TAK-280",
+      "target": "B7-H3×CD3",
+      "company": "Takeda",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'TAK-280': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05220098",
+        "BriefTitle": "First-in-Human Study of TAK-280 in Participants With Solid Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Takeda",
+        "InterventionName": "TAK-280",
+        "StartDate": "2022-04-21",
+        "LastUpdatePostDate": "2026-07-07",
+        "HasResults": true,
+        "EnrollmentCount": 69
+      }
+    ]
+  },
+  "AMG 340": {
+    "meta": {
+      "query": "AMG 340",
+      "target": "PSMA×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": "注意: 非acapatamab"
+    },
+    "query_notes": [
+      "intr 'AMG 340': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT04740034",
+        "BriefTitle": "A Study of AMG 340 in Subjects With Metastatic Castrate-Resistant Prostate Carcinoma",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 340",
+        "StartDate": "2021-04-29",
+        "LastUpdatePostDate": "2025-06-17",
+        "HasResults": true,
+        "EnrollmentCount": 42
+      }
+    ]
+  },
+  "Acapatamab/AMG 160": {
+    "meta": {
+      "query": "acapatamab",
+      "target": "PSMA×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'acapatamab': 2 hits",
+      "intr 'AMG 160': 1 hits"
+    ],
+    "trial_count": 3,
+    "trials": [
+      {
+        "NCTId": "NCT03792841",
+        "BriefTitle": "Safety, Tolerability, Pharmacokinetics, and Efficacy of Acapatamab in Subjects With mCRPC",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "acapatamab; Pembrolizumab; Etanercept; Cytochrome P450 (CYP) Cocktail",
+        "StartDate": "2019-02-05",
+        "LastUpdatePostDate": "2025-10-16",
+        "HasResults": false,
+        "EnrollmentCount": 212
+      },
+      {
+        "NCTId": "NCT04631601",
+        "BriefTitle": "Safety and Efficacy of Therapies for Metastatic Castration-resistant Prostate Cancer (mCRPC)",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Acapatamab; Enzalutamide; Abiraterone; AMG 404",
+        "StartDate": "2021-01-15",
+        "LastUpdatePostDate": "2025-10-07",
+        "HasResults": false,
+        "EnrollmentCount": 65
+      },
+      {
+        "NCTId": "NCT04822298",
+        "BriefTitle": "Study of AMG 160 in Subjects With Non-Small Cell Lung Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 160",
+        "StartDate": "2021-08-31",
+        "LastUpdatePostDate": "2024-07-05",
+        "HasResults": true,
+        "EnrollmentCount": 3
+      }
+    ]
+  },
+  "CC-1": {
+    "meta": {
+      "query": "CC-1",
+      "target": "PSMA×CD3",
+      "company": "Univ. Tübingen",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'CC-1': 32 hits",
+      "relevance filter: 32 -> 3"
+    ],
+    "trial_count": 3,
+    "trials": [
+      {
+        "NCTId": "NCT04104607",
+        "BriefTitle": "The Bispecific PSMAxCD3 Antibody CC-1 in Patients with Castration Resistant Prostate Carcinoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "University Hospital Tuebingen",
+        "InterventionName": "CC-1, PSMAxCD3",
+        "StartDate": "2019-11-15",
+        "LastUpdatePostDate": "2024-12-09",
+        "HasResults": false,
+        "EnrollmentCount": 86
+      },
+      {
+        "NCTId": "NCT04496674",
+        "BriefTitle": "Bispecific PSMAxCD3 Antibody CC-1 in Patients With Squamous Cell Carcinoma of the Lung",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "German Cancer Research Center",
+        "InterventionName": "CC-1 and Toczilizumab",
+        "StartDate": "2022-02-02",
+        "LastUpdatePostDate": "2025-04-23",
+        "HasResults": false,
+        "EnrollmentCount": 3
+      },
+      {
+        "NCTId": "NCT05646550",
+        "BriefTitle": "Antibody CC-1 in Men With Biochemical Recurrence of Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "University Hospital Tuebingen",
+        "InterventionName": "CC-1 Infusion",
+        "StartDate": "2022-11-11",
+        "LastUpdatePostDate": "2024-05-16",
+        "HasResults": false,
+        "EnrollmentCount": 56
+      }
+    ]
+  },
+  "CX-904": {
+    "meta": {
+      "query": "CX-904",
+      "target": "EGFR×CD3",
+      "company": "CytomX",
+      "category": "条件激活",
+      "note": "Probody"
+    },
+    "query_notes": [
+      "intr 'CX-904': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05387265",
+        "BriefTitle": "A Trial to Find Safe and Active Doses for an Investigational Drug, CX-904, for Patients With Advanced Solid Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "CytomX Therapeutics",
+        "InterventionName": "CX-904",
+        "StartDate": "2022-05-16",
+        "LastUpdatePostDate": "2025-07-14",
+        "HasResults": false,
+        "EnrollmentCount": 83
+      }
+    ]
+  },
+  "TAK-186": {
+    "meta": {
+      "query": "TAK-186",
+      "target": "EGFR×CD3",
+      "company": "Takeda",
+      "category": "常规抗体TCE",
+      "note": "COBRA; v2: 按复核意见归常规抗体TCE, 生命周期终止"
+    },
+    "query_notes": [
+      "intr 'TAK-186': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT04844073",
+        "BriefTitle": "A Study of TAK-186 (Also Known as MVC-101) in Adults With Advanced or Metastatic Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Takeda",
+        "InterventionName": "TAK-186",
+        "StartDate": "2021-03-08",
+        "LastUpdatePostDate": "2025-12-04",
+        "HasResults": false,
+        "EnrollmentCount": 95
+      },
+      {
+        "NCTId": "NCT04891718",
+        "BriefTitle": "CIVO Intratumoural Microdosing of Anti-Cancer Therapies in Australia",
+        "OverallStatus": "WITHDRAWN",
+        "Phase": "EARLY_PHASE1",
+        "LeadSponsorName": "Presage Biosciences",
+        "InterventionName": "MVC-101; Nivolumab; MVC-101 + Nivolumab",
+        "StartDate": "2021-09-15",
+        "LastUpdatePostDate": "2022-07-08",
+        "HasResults": false,
+        "EnrollmentCount": 0
+      }
+    ]
+  },
+  "M701": {
+    "meta": {
+      "query": "M701",
+      "target": "EpCAM×CD3",
+      "company": "武汉友芝友",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'M701': 4 hits"
+    ],
+    "trial_count": 4,
+    "trials": [
+      {
+        "NCTId": "NCT04501744",
+        "BriefTitle": "A Study of M701 (EpCAM and CD3) in Malignant Ascites",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Wuhan YZY Biopharma Co., Ltd.",
+        "InterventionName": "Cohort 1 of M701; Cohort 2 of M701; Cohort 3 of M701; Cohort 4 of M701; Cohort 5 of M701; Cohort 6 of M701; Cohort 7 of M701",
+        "StartDate": "2018-09-30",
+        "LastUpdatePostDate": "2025-07-17",
+        "HasResults": false,
+        "EnrollmentCount": 35
+      },
+      {
+        "NCTId": "NCT05543330",
+        "BriefTitle": "A Phase Ib/II Clinical Trial of M701 in the Treatment of Malignant Pleural Effusions Caused by NSCLC",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Wuhan YZY Biopharma Co., Ltd.",
+        "InterventionName": "M701 pleural infusion; Pleural drainage; Cisplatin pleural infusion",
+        "StartDate": "2022-09-30",
+        "LastUpdatePostDate": "2026-07-08",
+        "HasResults": false,
+        "EnrollmentCount": 116
+      },
+      {
+        "NCTId": "NCT06266091",
+        "BriefTitle": "Treat Malignant Ascites Caused by Gastrointestinal or Ovarian Cancer With M701 Bispecific Antibody",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Wuhan YZY Biopharma Co., Ltd.",
+        "InterventionName": "M701; paracentesis",
+        "StartDate": "2021-11-24",
+        "LastUpdatePostDate": "2026-06-17",
+        "HasResults": false,
+        "EnrollmentCount": 115
+      },
+      {
+        "NCTId": "NCT06432296",
+        "BriefTitle": "Treatment of Malignant Ascites Caused by Advanced Epithelial Solid Tumors With M701 Bispecific Antibody",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Wuhan YZY Biopharma Co., Ltd.",
+        "InterventionName": "M701; paracentesis",
+        "StartDate": "2024-03-25",
+        "LastUpdatePostDate": "2026-05-11",
+        "HasResults": false,
+        "EnrollmentCount": 312
+      }
+    ]
+  },
+  "BA3182": {
+    "meta": {
+      "query": "BA3182",
+      "target": "EpCAM×CD3",
+      "company": "BioAtla",
+      "category": "条件激活",
+      "note": "CAB"
+    },
+    "query_notes": [
+      "intr 'BA3182': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05808634",
+        "BriefTitle": "Phase 1 Study Evaluating BA3182 in Patients With Advanced Adenocarcinoma.",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "BioAtla, Inc.",
+        "InterventionName": "BA3182",
+        "StartDate": "2023-07-14",
+        "LastUpdatePostDate": "2025-09-25",
+        "HasResults": false,
+        "EnrollmentCount": 168
+      }
+    ]
+  },
+  "Ubamatamab/REGN4018": {
+    "meta": {
+      "query": "ubamatamab",
+      "target": "MUC16×CD3",
+      "company": "Regeneron",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'ubamatamab': 7 hits",
+      "intr 'REGN4018': 4 hits"
+    ],
+    "trial_count": 7,
+    "trials": [
+      {
+        "NCTId": "NCT03564340",
+        "BriefTitle": "Study of REGN4018 (Ubamatamab) Administered Alone or in Combination With Cemiplimab in Adult Patients With Recurrent Ovarian Cancer or Other Recurrent Mucin-16 Expressing (MUC16+) Cancers",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "Ubamatamab; Cemiplimab; Sarilumab; Tocilizumab",
+        "StartDate": "2018-05-21",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 890
+      },
+      {
+        "NCTId": "NCT04590326",
+        "BriefTitle": "A Study to Find Out How Safe REGN5668 is and How Well it Works In Adult Women When Given With Either Cemiplimab, or Cemiplimab + Fianlimab, or Ubamatamab",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "REGN5668; Cemiplimab; Ubamatamab; Sarilumab; Cemiplimab + Fianlimab [Fixed Dose Combination (FDC)]",
+        "StartDate": "2020-12-08",
+        "LastUpdatePostDate": "2025-11-21",
+        "HasResults": false,
+        "EnrollmentCount": 612
+      },
+      {
+        "NCTId": "NCT06444880",
+        "BriefTitle": "Phase II Trial of Ubamatamab Alone or in Combination With Cemiplimab in MUC16-Expressing SMARCB1-Deficient Malignancies",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "M.D. Anderson Cancer Center",
+        "InterventionName": "Ubamatamab; Cemiplimab",
+        "StartDate": "2024-10-09",
+        "LastUpdatePostDate": "2026-06-18",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT06787612",
+        "BriefTitle": "Investigation of Ubamatamab Combination Therapy in Adult Participants With Platinum-Resistant Ovarian Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "Ubamatamab; Bevacizumab; Cemiplimab; Fianlimab; PLD; Sarilumab",
+        "StartDate": "2025-05-28",
+        "LastUpdatePostDate": "2026-07-09",
+        "HasResults": false,
+        "EnrollmentCount": 220
+      },
+      {
+        "NCTId": "NCT07154290",
+        "BriefTitle": "A Study to Investigate Ubamatamab With and Without REGN7075 in Adult Participants With Advanced/Metastatic Non-Small Cell Lung Cancer (NSCLC)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "Ubamatamab; REGN7075; Sarilumab",
+        "StartDate": "2026-03-18",
+        "LastUpdatePostDate": "2026-07-22",
+        "HasResults": false,
+        "EnrollmentCount": 300
+      },
+      {
+        "NCTId": "NCT07502716",
+        "BriefTitle": "Compassionate Use of Ubamatamab",
+        "OverallStatus": "AVAILABLE",
+        "Phase": "NA",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "ubamatamab",
+        "StartDate": "",
+        "LastUpdatePostDate": "2026-03-31",
+        "HasResults": false,
+        "EnrollmentCount": ""
+      },
+      {
+        "NCTId": "NCT07637851",
+        "BriefTitle": "Safety and Efficacy of Ubamatamab With First-line Chemotherapy in Ovarian Cancer",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "ARCAGY/ GINECO GROUP",
+        "InterventionName": "Ubamatamab; Chemotherapy; Bevacizumab; GCSF",
+        "StartDate": "2026-08",
+        "LastUpdatePostDate": "2026-07-10",
+        "HasResults": false,
+        "EnrollmentCount": 43
+      }
+    ]
+  },
+  "ISB 1302": {
+    "meta": {
+      "query": "ISB 1302",
+      "target": "HER2×CD3",
+      "company": "Ichnos",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'ISB 1302': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT03983395",
+        "BriefTitle": "Study of ISB 1302 (CD3 Bispecific Ab) in HER2-positive Metastatic Breast Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Ichnos Sciences SA",
+        "InterventionName": "ISB 1302 250 ng/kg; ISB 1302 325 ng/kg; ISB 1302 325 ng/kg-D1;425 ng/kg -D8,D15,D22; ISB 1302 325 ng/kg-D1;550 ng/kg -D8,D15,D22; ISB 1302 325ng/kgD1;550 ng/kg D8;700 ng/kgD15,22; ISB 1302 325ng/kg D1;550 ng/kg D8;900 ng/kg D15,22; ISB 1302 escalating doses,1200 ng/kg D15,22; ISB 1302 at the MTD and/or RP2D dose",
+        "StartDate": "2020-04-08",
+        "LastUpdatePostDate": "2021-05-24",
+        "HasResults": false,
+        "EnrollmentCount": 1
+      }
+    ]
+  },
+  "Ertumaxomab": {
+    "meta": {
+      "query": "ertumaxomab",
+      "target": "HER2×CD3",
+      "company": "Neovii",
+      "category": "常规抗体TCE",
+      "note": "历史终止"
+    },
+    "query_notes": [
+      "intr 'ertumaxomab': 4 hits"
+    ],
+    "trial_count": 4,
+    "trials": [
+      {
+        "NCTId": "NCT00351858",
+        "BriefTitle": "Safety and Efficacy Study of the Trifunctional Antibody Ertumaxomab to Treat Patients With Advanced or Metastatic Breast Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "ertumaxomab",
+        "StartDate": "2006-07",
+        "LastUpdatePostDate": "2015-05-01",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT00452140",
+        "BriefTitle": "Phase II Study With the Trifunctional Antibody Ertumaxomab to Treat Metastatic Breast Cancer Progressing After Endocrine Treatment",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "ertumaxomab",
+        "StartDate": "2007-03",
+        "LastUpdatePostDate": "2009-05-19",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT00522457",
+        "BriefTitle": "Phase II Study With the Trifunctional Antibody Ertumaxomab to Treat Metastatic Breast Cancer After Progression on Trastuzumab Therapy",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Neovii Biotech",
+        "InterventionName": "ertumaxomab",
+        "StartDate": "2008-01",
+        "LastUpdatePostDate": "2011-04-29",
+        "HasResults": true,
+        "EnrollmentCount": 19
+      },
+      {
+        "NCTId": "NCT01569412",
+        "BriefTitle": "Open Label, Dose Escalating Study With Ertumaxomab In Patients With HER-2/Neu Expressing Advanced Solid Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Krankenhaus Nordwest",
+        "InterventionName": "Ertumaxomab",
+        "StartDate": "2012-03",
+        "LastUpdatePostDate": "2016-05-05",
+        "HasResults": false,
+        "EnrollmentCount": 14
+      }
+    ]
+  },
+  "CM350": {
+    "meta": {
+      "query": "CM350",
+      "target": "GPC3×CD3",
+      "company": "康诺亚",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'CM350': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05263960",
+        "BriefTitle": "A Study of CM350 in Patients With Advanced Solid Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Keymed Biosciences Co.Ltd",
+        "InterventionName": "CM350 group1; CM350 group2; CM350 group3",
+        "StartDate": "2022-04-21",
+        "LastUpdatePostDate": "2025-05-04",
+        "HasResults": false,
+        "EnrollmentCount": 248
+      }
+    ]
+  },
+  "BA1202": {
+    "meta": {
+      "query": "BA1202",
+      "target": "CEA×CD3",
+      "company": "博安生物",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'BA1202': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05909241",
+        "BriefTitle": "A Study of BA1202 in Patients With Advanced Solid Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Shandong Boan Biotechnology Co., Ltd",
+        "InterventionName": "BA1202",
+        "StartDate": "2023-08-16",
+        "LastUpdatePostDate": "2024-04-25",
+        "HasResults": false,
+        "EnrollmentCount": 78
+      }
+    ]
+  },
+  "KGX105": {
+    "meta": {
+      "query": "KGX105",
+      "target": "EGFR×CD3",
+      "company": "Kangabio",
+      "category": "条件激活",
+      "note": "掩蔽型前药"
+    },
+    "query_notes": [
+      "intr 'KGX105': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT07702955",
+        "BriefTitle": "Phase I Study of Single-Agent KGX105 in Patients With Advanced or Metastatic Solid Tumors",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Kangabio AUSTRALIA LTD PTY",
+        "InterventionName": "KGX105 injection",
+        "StartDate": "2026-08",
+        "LastUpdatePostDate": "2026-07-21",
+        "HasResults": false,
+        "EnrollmentCount": 85
+      }
+    ]
+  },
+  "QLF4113": {
+    "meta": {
+      "query": "QLF4113",
+      "target": "PSMA×CD3×CD2",
+      "company": "齐鲁制药",
+      "category": "TriTAC·三特异",
+      "note": "v2: CD28更正为CD2"
+    },
+    "query_notes": [
+      "intr 'QLF4113': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT07636707",
+        "BriefTitle": "QLF4113 in Participants With Metastatic Prostate Cancer",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Qilu Pharmaceutical Co., Ltd.",
+        "InterventionName": "QLF4113 for injection",
+        "StartDate": "2026-07-20",
+        "LastUpdatePostDate": "2026-06-09",
+        "HasResults": false,
+        "EnrollmentCount": 140
+      }
+    ]
+  },
+  "M802": {
+    "meta": {
+      "query": "M802",
+      "target": "HER2×CD3",
+      "company": "武汉友芝友",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'M802': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT04501770",
+        "BriefTitle": "A Study of M802 (HER2 and CD3) in HER2-Positive Advanced Solid Tumors",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Wuhan YZY Biopharma Co., Ltd.",
+        "InterventionName": "Chort 1 of M802; Chort 2 of M802; Cohort 3 of M802; Cohort 4 of M802; Cohort 5 of M802; Cohort 6 of M802; Cohort 7 of M802; Cohort 8 of M802",
+        "StartDate": "2018-09-27",
+        "LastUpdatePostDate": "2025-07-20",
+        "HasResults": false,
+        "EnrollmentCount": 34
+      }
+    ]
+  },
+  "Gocatamig/MK-6070/HPN328": {
+    "meta": {
+      "query": "gocatamig",
+      "target": "DLL3×CD3×albumin",
+      "company": "Merck/Harpoon",
+      "category": "TriTAC·三特异",
+      "note": "TriTAC"
+    },
+    "query_notes": [
+      "intr 'gocatamig': 3 hits",
+      "intr 'MK-6070': 3 hits",
+      "intr 'HPN328': 3 hits"
+    ],
+    "trial_count": 3,
+    "trials": [
+      {
+        "NCTId": "NCT04471727",
+        "BriefTitle": "A Study in Participants With Advanced Cancers Associated With Expression of DLL3 (MK-6070-001/HPN328-4001)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Harpoon Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "InterventionName": "Gocatamig; Atezolizumab; Ifinatamab Deruxtecan (I-DXd)",
+        "StartDate": "2020-12-14",
+        "LastUpdatePostDate": "2026-02-24",
+        "HasResults": false,
+        "EnrollmentCount": 232
+      },
+      {
+        "NCTId": "NCT06780137",
+        "BriefTitle": "A Study to Evaluate the Safety and Efficacy of Gocatamig (MK-6070) and Ifinatamab Deruxtecan (I-DXd) in Participants With Relapsed/Refractory Extensive-Stage Small Cell Lung Cancer (MK-6070-002)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Merck Sharp & Dohme LLC",
+        "InterventionName": "Gocatamig; Ifinatamab Deruxtecan (I-DXd); Durvalumab",
+        "StartDate": "2025-02-27",
+        "LastUpdatePostDate": "2026-07-06",
+        "HasResults": false,
+        "EnrollmentCount": 327
+      },
+      {
+        "NCTId": "NCT07227597",
+        "BriefTitle": "A Clinical Study of Gocatamig (MK-6070) and Infinatamab Deruxtecan (MK-2400) in People With Small Cell Lung Cancer (MK-6070-003)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Merck Sharp & Dohme LLC",
+        "InterventionName": "Gocatamig; I-DXd; Atezolizumab; Carboplatin; Etoposide; Rescue Medications",
+        "StartDate": "2026-01-29",
+        "LastUpdatePostDate": "2026-07-28",
+        "HasResults": false,
+        "EnrollmentCount": 170
+      }
+    ]
+  },
+  "Alveltamig/ZG006": {
+    "meta": {
+      "query": "alveltamig",
+      "target": "DLL3×DLL3×CD3",
+      "company": "泽璟生物 Suzhou Zelgen",
+      "category": "TriTAC·三特异",
+      "note": "v2: 厂家裁定泽璟, 补正式名alveltamig, 移入三特异"
+    },
+    "query_notes": [
+      "intr 0 hits -> term '\"alveltamig\"': 0 hits",
+      "intr 'ZG006': 10 hits",
+      "manual exclusion (v3 adjudication): NCT07258121 -> ZGGS34"
+    ],
+    "trial_count": 9,
+    "trials": [
+      {
+        "NCTId": "NCT05978284",
+        "BriefTitle": "Study of ZG006 in Participants With Small Cell Lung Cancer or Neuroendocrine Carcinoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2023-10-27",
+        "LastUpdatePostDate": "2026-01-05",
+        "HasResults": false,
+        "EnrollmentCount": 54
+      },
+      {
+        "NCTId": "NCT06283719",
+        "BriefTitle": "Dose Escalation Study of ZG006 in Participants With Advanced Small Cell Lung Cancer or Neuroendocrine Carcinoma, Followed by Dose Expansion Study in Participants With Advanced Small Cell Lung Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2024-09-02",
+        "LastUpdatePostDate": "2025-11-17",
+        "HasResults": false,
+        "EnrollmentCount": 265
+      },
+      {
+        "NCTId": "NCT06440057",
+        "BriefTitle": "Dose Escalation Study of ZG006 in Participants With Advanced Small Cell Lung Cancer or Neuroendocrine Carcinoma, Followed by Dose Expansion Study in Participants With Neuroendocrine Carcinoma.",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2024-08-29",
+        "LastUpdatePostDate": "2024-12-16",
+        "HasResults": false,
+        "EnrollmentCount": 78
+      },
+      {
+        "NCTId": "NCT06592638",
+        "BriefTitle": "A Phase 1 Dose Escalation Study of ZG006 in Patients With Small Cell Lung Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2025-03-31",
+        "LastUpdatePostDate": "2025-08-06",
+        "HasResults": false,
+        "EnrollmentCount": 30
+      },
+      {
+        "NCTId": "NCT07024277",
+        "BriefTitle": "Study of ZG006 in Participants With Neuroendocrine Prostate Cancer",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2025-08",
+        "LastUpdatePostDate": "2025-06-17",
+        "HasResults": false,
+        "EnrollmentCount": 60
+      },
+      {
+        "NCTId": "NCT07038096",
+        "BriefTitle": "ZG006 and ZG005 in Participants With Small Cell Lung Cancer or Neuroendocrine Carcinoma",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006; ZG005",
+        "StartDate": "2025-09-23",
+        "LastUpdatePostDate": "2026-01-05",
+        "HasResults": false,
+        "EnrollmentCount": 350
+      },
+      {
+        "NCTId": "NCT07189455",
+        "BriefTitle": "Study Comparing ZG006 With Investigator-Selected Chemotherapy in Participants With Relapsed Small Cell Lung Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006; Topotecan",
+        "StartDate": "2025-12-12",
+        "LastUpdatePostDate": "2026-01-05",
+        "HasResults": false,
+        "EnrollmentCount": 420
+      },
+      {
+        "NCTId": "NCT07231445",
+        "BriefTitle": "Study of ZG006 in Combination With PD-1/PD-L1 Immune Checkpoint Inhibitors as First-Line Standard Therapy in Participants With Extensive Stage Small-Cell Lung Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006; Serplulimab",
+        "StartDate": "2026-04-21",
+        "LastUpdatePostDate": "2026-04-28",
+        "HasResults": false,
+        "EnrollmentCount": 100
+      },
+      {
+        "NCTId": "NCT07595913",
+        "BriefTitle": "A Study of ZG006 for Injection Versus Investigator-Selected Chemotherapy in Participants With Advanced Neuroendocrine Carcinoma",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006; 5-fluorouracil, Calcium folinate and Irinotecan",
+        "StartDate": "2026-07",
+        "LastUpdatePostDate": "2026-05-19",
+        "HasResults": false,
+        "EnrollmentCount": 240
+      }
+    ]
+  },
+  "JANX007": {
+    "meta": {
+      "query": "JANX007",
+      "target": "PSMA×CD3",
+      "company": "Janux",
+      "category": "条件激活",
+      "note": "TRACTr"
+    },
+    "query_notes": [
+      "intr 'JANX007': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05519449",
+        "BriefTitle": "Study of JANX007 in Subjects With Metastatic Castration-Resistant Prostate Cancer (ENGAGER-PSMA-01)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janux Therapeutics",
+        "InterventionName": "JANX007; Darolutamide",
+        "StartDate": "2022-09-15",
+        "LastUpdatePostDate": "2026-01-20",
+        "HasResults": false,
+        "EnrollmentCount": 272
+      }
+    ]
+  },
+  "JANX008": {
+    "meta": {
+      "query": "JANX008",
+      "target": "EGFR×CD3",
+      "company": "Janux",
+      "category": "条件激活",
+      "note": "TRACTr"
+    },
+    "query_notes": [
+      "intr 'JANX008': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05783622",
+        "BriefTitle": "Study of JANX008 in Subjects With Advanced or Metastatic Solid Tumor Malignancies",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Janux Therapeutics",
+        "InterventionName": "JANX008",
+        "StartDate": "2023-04-19",
+        "LastUpdatePostDate": "2026-06-01",
+        "HasResults": false,
+        "EnrollmentCount": 130
+      }
+    ]
+  },
+  "Xaluritamig/AMG 509": {
+    "meta": {
+      "query": "xaluritamig",
+      "target": "STEAP1×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'xaluritamig': 9 hits",
+      "intr 'AMG 509': 8 hits"
+    ],
+    "trial_count": 9,
+    "trials": [
+      {
+        "NCTId": "NCT04221542",
+        "BriefTitle": "Study of AMG 509 in Participants With Metastatic Castration-Resistant Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 509; Abiraterone; Enzalutamide",
+        "StartDate": "2020-03-04",
+        "LastUpdatePostDate": "2026-05-29",
+        "HasResults": false,
+        "EnrollmentCount": 479
+      },
+      {
+        "NCTId": "NCT06555796",
+        "BriefTitle": "Evaluation of Xaluritamig in High-Risk, Biochemically Recurrent, Non-metastatic Castrate-sensitive Prostate Cancer",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig",
+        "StartDate": "2024-09-23",
+        "LastUpdatePostDate": "2026-01-26",
+        "HasResults": false,
+        "EnrollmentCount": 50
+      },
+      {
+        "NCTId": "NCT06613100",
+        "BriefTitle": "Evaluation of Neoadjuvant Xaluritamig in Localized Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig; GnRH Antagonist",
+        "StartDate": "2024-11-25",
+        "LastUpdatePostDate": "2026-07-31",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT06691984",
+        "BriefTitle": "Phase 3 Study of Xaluritamig vs Cabazitaxel or Second Androgen Receptor-Directed Therapy in Participants With Progressive Metastatic Castration-Resistant Prostate Cancer (XALute)",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig; Abiraterone; Enzalutamide; Cabazitaxel",
+        "StartDate": "2024-12-09",
+        "LastUpdatePostDate": "2026-05-15",
+        "HasResults": false,
+        "EnrollmentCount": 707
+      },
+      {
+        "NCTId": "NCT07140900",
+        "BriefTitle": "Study Evaluating the Safety, Tolerability, and Efficacy of Xaluritamig in Combination With Androgen Receptor Pathway Inhibitors in Participants With Metastatic Hormone-sensitive Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig; Darolutamide; Abiraterone",
+        "StartDate": "2025-10-07",
+        "LastUpdatePostDate": "2026-07-02",
+        "HasResults": false,
+        "EnrollmentCount": 60
+      },
+      {
+        "NCTId": "NCT07213674",
+        "BriefTitle": "A Study of Xaluritamig Plus Abiraterone Versus Investigator's Choice in Participants With Chemotherapy-naïve Metastatic Castration-resistant Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig; Abiraterone acetate; Docetaxel; Cabazitaxel",
+        "StartDate": "2025-11-28",
+        "LastUpdatePostDate": "2026-07-24",
+        "HasResults": false,
+        "EnrollmentCount": 750
+      },
+      {
+        "NCTId": "NCT07297979",
+        "BriefTitle": "Evaluation of Xaluritamig in Adults, Adolescents and Children With Relapsed or Refractory Ewing Sarcoma (EWS)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig",
+        "StartDate": "2026-04-08",
+        "LastUpdatePostDate": "2026-07-16",
+        "HasResults": false,
+        "EnrollmentCount": 50
+      },
+      {
+        "NCTId": "NCT07493512",
+        "BriefTitle": "Trial of Xaluritamig in Adults With Metastatic Castration-resistant Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "Xaluritamig",
+        "StartDate": "2026-04-28",
+        "LastUpdatePostDate": "2026-07-23",
+        "HasResults": false,
+        "EnrollmentCount": 40
+      },
+      {
+        "NCTId": "NCT07737925",
+        "BriefTitle": "LuX: Xaluritamig in Participants With Metastatic Castrate Resistant Prostate Cancer and Suboptimal Response to Lutetium 177 Vipivotide Tetraxetan",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "Thomas Jefferson University",
+        "InterventionName": "Xaluritamig",
+        "StartDate": "2026-07",
+        "LastUpdatePostDate": "2026-07-30",
+        "HasResults": false,
+        "EnrollmentCount": 30
+      }
+    ]
+  },
+  "Brenetafusp/IMC-F106C": {
+    "meta": {
+      "query": "brenetafusp",
+      "target": "PRAME peptide–HLA-A*02:01×CD3",
+      "company": "Immunocore",
+      "category": "TCR×CD3",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'brenetafusp': 3 hits",
+      "intr 'IMC-F106C': 3 hits"
+    ],
+    "trial_count": 3,
+    "trials": [
+      {
+        "NCTId": "NCT04262466",
+        "BriefTitle": "Safety and Efficacy of IMC-F106C as a Single Agent and in Combination With Checkpoint Inhibitors",
+        "OverallStatus": "ACTIVE_NOT_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Brenetafusp; Brenetafusp and pembrolizumab; Brenetafusp and chemotherapy; Brenetafusp and monoclonal antibodies and chemotherapy; Brenetafusp and tebentafusp; Brenetafusp and bevacizumab; Brenetafusp and kinase inhibitors",
+        "StartDate": "2020-02-25",
+        "LastUpdatePostDate": "2026-03-06",
+        "HasResults": false,
+        "EnrollmentCount": 410
+      },
+      {
+        "NCTId": "NCT06112314",
+        "BriefTitle": "IMC-F106C Regimen Versus Nivolumab Regimens in Previously Untreated Advanced Melanoma (PRISM-MEL-301)",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE3",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "Brenetafusp; Nivolumab; Nivolumab + Relatlimab",
+        "StartDate": "2024-06-05",
+        "LastUpdatePostDate": "2026-02-25",
+        "HasResults": false,
+        "EnrollmentCount": 680
+      },
+      {
+        "NCTId": "NCT07686367",
+        "BriefTitle": "Testing the Anti-Cancer Drug, Brenetafusp (IMCF106C), in Rare Cancers",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE2",
+        "LeadSponsorName": "National Cancer Institute (NCI)",
+        "InterventionName": "Anti-PRAME T-cell Receptor/Anti-CD3 scFv Fusion Protein IMC-F106C; Biopsy Procedure; Biospecimen Collection; Computed Tomography; Magnetic Resonance Imaging",
+        "StartDate": "2026-09-11",
+        "LastUpdatePostDate": "2026-07-07",
+        "HasResults": false,
+        "EnrollmentCount": 42
+      }
+    ]
+  },
+  "IBI389": {
+    "meta": {
+      "query": "IBI389",
+      "target": "CLDN18.2×CD3",
+      "company": "信达生物",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'IBI389': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05164458",
+        "BriefTitle": "Safety and Efficacy of IBI389 Single Agent, and in Combination With Sintilimab, in Patients With Advanced Malignancies",
+        "OverallStatus": "UNKNOWN",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Innovent Biologics (Suzhou) Co. Ltd.",
+        "InterventionName": "IBI 308 injection; IBI 389 Injection",
+        "StartDate": "2022-03-22",
+        "LastUpdatePostDate": "2023-12-28",
+        "HasResults": false,
+        "EnrollmentCount": 320
+      }
+    ]
+  },
+  "AMG 910": {
+    "meta": {
+      "query": "AMG 910",
+      "target": "CLDN18.2×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'AMG 910': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT04260191",
+        "BriefTitle": "Study of AMG 910 in Subjects With CLDN18.2-Positive Gastric and Gastroesophageal Junction Adenocarcinoma",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 910",
+        "StartDate": "2020-06-29",
+        "LastUpdatePostDate": "2024-01-25",
+        "HasResults": true,
+        "EnrollmentCount": 15
+      }
+    ]
+  },
+  "REGN4336": {
+    "meta": {
+      "query": "REGN4336",
+      "target": "PSMA×CD3",
+      "company": "Regeneron",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'REGN4336': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT05125016",
+        "BriefTitle": "A Trial to Find Out if REGN4336 is Safe and How Well it Works Alone and in Combination With REGN5678 for Adult Participants With Advanced Prostate Cancer",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "REGN4336; REGN5678",
+        "StartDate": "2021-11-30",
+        "LastUpdatePostDate": "2026-05-05",
+        "HasResults": false,
+        "EnrollmentCount": 228
+      },
+      {
+        "NCTId": "NCT07594106",
+        "BriefTitle": "REGN15505 (PSMAx4-1BB) Alone or in Combination With Cemiplimab or REGN4336 (PSMAxCD3) in Adult Patients With Metastatic Castration-Resistant Prostate Cancer and Clear Cell Renal Cell Carcinoma",
+        "OverallStatus": "NOT_YET_RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Regeneron Pharmaceuticals",
+        "InterventionName": "REGN15505; REGN15505+Cemiplimab; REGN15505+REGN4336",
+        "StartDate": "2026-05-25",
+        "LastUpdatePostDate": "2026-05-18",
+        "HasResults": false,
+        "EnrollmentCount": 265
+      }
+    ]
+  },
+  "PF-07062119": {
+    "meta": {
+      "query": "PF-07062119",
+      "target": "GUCY2C×CD3",
+      "company": "Pfizer",
+      "category": "常规抗体TCE",
+      "note": "v2: 靶点由CEA更正为GUCY2C"
+    },
+    "query_notes": [
+      "intr 'PF-07062119': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT04171141",
+        "BriefTitle": "Study to Test the Safety and Tolerability of PF-07062119 in Patients With Selected Advanced or Metastatic Gastrointestinal Tumors.",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Pfizer",
+        "InterventionName": "PF-07062119; Anti-PD1; Anti-VEGF",
+        "StartDate": "2019-11-19",
+        "LastUpdatePostDate": "2025-01-16",
+        "HasResults": true,
+        "EnrollmentCount": 79
+      }
+    ]
+  },
+  "Tidutamab/XmAb18087": {
+    "meta": {
+      "query": "tidutamab",
+      "target": "SSTR2×CD3",
+      "company": "Xencor",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 0 hits -> term '\"tidutamab\"': 0 hits",
+      "intr 'XmAb18087': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT03411915",
+        "BriefTitle": "A Study of XmAb®18087 in Subjects With NET and GIST",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Xencor, Inc.",
+        "InterventionName": "XmAb18087",
+        "StartDate": "2018-01-22",
+        "LastUpdatePostDate": "2022-05-10",
+        "HasResults": false,
+        "EnrollmentCount": 62
+      },
+      {
+        "NCTId": "NCT04590781",
+        "BriefTitle": "Safety and Efficacy of XmAb18087 ± Pembrolizumab in Advanced Merkel Cell Carcinoma or Extensive-stage Small Cell Lung Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Xencor, Inc.",
+        "InterventionName": "XmAb18087; XmAb18087 ± Pembrolizumab",
+        "StartDate": "2021-05-10",
+        "LastUpdatePostDate": "2023-04-20",
+        "HasResults": true,
+        "EnrollmentCount": 4
+      }
+    ]
+  },
+  "Nivatrotamab/Hu3F8-BsAb": {
+    "meta": {
+      "query": "nivatrotamab",
+      "target": "GD2×CD3",
+      "company": "Y-mAbs/MSK",
+      "category": "常规抗体TCE",
+      "note": "v2: 与hu3F8 bispecific合并(同一分子); NCT03860207"
+    },
+    "query_notes": [
+      "intr 'nivatrotamab': 2 hits",
+      "intr 'Hu3F8-BsAb': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT03860207",
+        "BriefTitle": "Study of the Safety and Efficacy of Humanized 3F8 Bispecific Antibody (Hu3F8-BsAb) in Patients With Relapsed/Refractory Neuroblastoma, Osteosarcoma and Other Solid Tumor Cancers",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Y-mAbs Therapeutics",
+        "InterventionName": "Humanized 3F8 Bispecific Antibody; Blood draw",
+        "StartDate": "2019-02-22",
+        "LastUpdatePostDate": "2023-09-13",
+        "HasResults": true,
+        "EnrollmentCount": 12
+      },
+      {
+        "NCTId": "NCT04750239",
+        "BriefTitle": "Safety and Clinical Activity of Nivatrotamab in Relapsed/Recurrent Metastatic Small-cell Lung Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Y-mAbs Therapeutics",
+        "InterventionName": "Nivatrotamab",
+        "StartDate": "2021-08-17",
+        "LastUpdatePostDate": "2023-08-14",
+        "HasResults": true,
+        "EnrollmentCount": 3
+      }
+    ]
+  },
+  "MGD007": {
+    "meta": {
+      "query": "MGD007",
+      "target": "gpA33×CD3",
+      "company": "MacroGenics",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'MGD007': 2 hits"
+    ],
+    "trial_count": 2,
+    "trials": [
+      {
+        "NCTId": "NCT02248805",
+        "BriefTitle": "Phase 1 Study of MGD007 in Relapsed/Refractory Metastatic Colorectal Carcinoma",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "MacroGenics",
+        "InterventionName": "MGD007",
+        "StartDate": "2014-10",
+        "LastUpdatePostDate": "2022-02-08",
+        "HasResults": false,
+        "EnrollmentCount": 95
+      },
+      {
+        "NCTId": "NCT03531632",
+        "BriefTitle": "MGD007 Combined With MGA012 in Relapsed/Refractory Metastatic Colorectal Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "MacroGenics",
+        "InterventionName": "MGD007 + MGA012",
+        "StartDate": "2018-06-04",
+        "LastUpdatePostDate": "2022-02-08",
+        "HasResults": true,
+        "EnrollmentCount": 38
+      }
+    ]
+  },
+  "HPN536": {
+    "meta": {
+      "query": "HPN536",
+      "target": "MSLN×CD3×albumin",
+      "company": "Harpoon",
+      "category": "TriTAC·三特异",
+      "note": "TriTAC"
+    },
+    "query_notes": [
+      "intr 'HPN536': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT03872206",
+        "BriefTitle": "Study of HPN536 in Patients With Advanced Cancers Associated With Mesothelin Expression",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Harpoon Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "InterventionName": "HPN536 Fixed IV 6 to 560 ng/kg; HPN536 1 Prime Step IV 600-1200 ng/kg Target; 2 Prime Step IV 900-14000 ng/kg Target",
+        "StartDate": "2019-04-16",
+        "LastUpdatePostDate": "2024-06-07",
+        "HasResults": false,
+        "EnrollmentCount": 95
+      }
+    ]
+  },
+  "AMG 596": {
+    "meta": {
+      "query": "AMG 596",
+      "target": "EGFRvIII×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'AMG 596': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT03296696",
+        "BriefTitle": "Study of AMG 596 in Patients With EGFRvIII Positive Glioblastoma",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 596; AMG 404",
+        "StartDate": "2018-04-18",
+        "LastUpdatePostDate": "2024-10-29",
+        "HasResults": true,
+        "EnrollmentCount": 30
+      }
+    ]
+  },
+  "IMC-C103C": {
+    "meta": {
+      "query": "IMC-C103C",
+      "target": "MAGE-A4 peptide–HLA-A*02:01×CD3",
+      "company": "Immunocore",
+      "category": "TCR×CD3",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'IMC-C103C': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT03973333",
+        "BriefTitle": "Safety and Efficacy of IMC-C103C as Monotherapy and in Combination With Atezolizumab",
+        "OverallStatus": "WITHDRAWN",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Immunocore Ltd",
+        "InterventionName": "IMC-C103C; Atezolizumab; IMC-C103C",
+        "StartDate": "2019-05-17",
+        "LastUpdatePostDate": "2024-10-18",
+        "HasResults": false,
+        "EnrollmentCount": 0
+      }
+    ]
+  },
+  "Solitomab/MT110": {
+    "meta": {
+      "query": "solitomab",
+      "target": "EpCAM×CD3",
+      "company": "Amgen",
+      "category": "常规抗体TCE",
+      "note": "BiTE"
+    },
+    "query_notes": [
+      "intr 0 hits -> term '\"solitomab\"': 0 hits",
+      "intr 'MT110': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT00635596",
+        "BriefTitle": "Phase I Study of MT110 in Lung Cancer (Adenocarcinoma and Small Cell), Gastric Cancer or Adenocarcinoma of the Gastro-Esophageal Junction, Colorectal Cancer, Breast Cancer, Hormone-Refractory Prostate Cancer, and Ovarian Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen Research (Munich) GmbH",
+        "InterventionName": "MT110",
+        "StartDate": "2008-03",
+        "LastUpdatePostDate": "2015-01-13",
+        "HasResults": false,
+        "EnrollmentCount": 65
+      }
+    ]
+  },
+  "PF-06671008": {
+    "meta": {
+      "query": "PF-06671008",
+      "target": "P-cadherin×CD3",
+      "company": "Pfizer",
+      "category": "常规抗体TCE",
+      "note": "历史终止; 已在CDH3监控"
+    },
+    "query_notes": [
+      "intr 'PF-06671008': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT02659631",
+        "BriefTitle": "PF-06671008 Dose Escalation Study in Advanced Solid Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Pfizer",
+        "InterventionName": "PF-06671008; PF-06671008",
+        "StartDate": "2016-04-28",
+        "LastUpdatePostDate": "2020-05-06",
+        "HasResults": true,
+        "EnrollmentCount": 28
+      }
+    ]
+  },
+  "ZGGS34": {
+    "meta": {
+      "query": "ZGGS34",
+      "target": "MUC17×CD3×CD28",
+      "company": "待核(见ct.gov)",
+      "category": "TriTAC·三特异",
+      "note": "中国I期+美国IND"
+    },
+    "query_notes": [
+      "intr 'ZGGS34': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT07258121",
+        "BriefTitle": "Study of ZGGS34 in Participants With Advanced Solid Tumors",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Suzhou Zelgen Biopharmaceuticals Co.,Ltd",
+        "InterventionName": "ZG006",
+        "StartDate": "2025-12-31",
+        "LastUpdatePostDate": "2026-04-28",
+        "HasResults": false,
+        "EnrollmentCount": 400
+      }
+    ]
+  },
+  "HPN424": {
+    "meta": {
+      "query": "HPN424",
+      "target": "PSMA×CD3×albumin",
+      "company": "Harpoon",
+      "category": "TriTAC·三特异",
+      "note": "TriTAC; NCT03577028"
+    },
+    "query_notes": [
+      "intr 'HPN424': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT03577028",
+        "BriefTitle": "Study of HPN424 in Patients With Advanced Prostate Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Harpoon Therapeutics, Inc., a subsidiary of Merck & Co., Inc. (Rahway, New Jersey USA)",
+        "InterventionName": "HPN424 Fixed IV 1.3 to 150 ng/kg; HPN424 Prime Step IV 36 ng/kg Target; HPN424 1 Prime Step IV 225-300 ng/kg Target; HPN424 2 Prime Step IV 300 ng/kg Target; HPN424 2 Prime Step IV 450 ng/kg Target; HPN424 Fixed SC",
+        "StartDate": "2018-07-24",
+        "LastUpdatePostDate": "2024-02-14",
+        "HasResults": true,
+        "EnrollmentCount": 104
+      }
+    ]
+  },
+  "Pasotuxizumab/AMG 212/BAY 2010112": {
+    "meta": {
+      "query": "pasotuxizumab",
+      "target": "PSMA×CD3",
+      "company": "Amgen/Bayer",
+      "category": "常规抗体TCE",
+      "note": "BiTE"
+    },
+    "query_notes": [
+      "intr 0 hits -> term '\"pasotuxizumab\"': 0 hits",
+      "intr 0 hits -> term '\"AMG 212\"': 0 hits",
+      "intr 'BAY 2010112': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT01723475",
+        "BriefTitle": "First-in-man Dose Escalation Study of BAY2010112 in Patients With Prostate Cancer",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Bayer",
+        "InterventionName": "BAY2010112; BAY2010112",
+        "StartDate": "2012-11-02",
+        "LastUpdatePostDate": "2019-09-27",
+        "HasResults": false,
+        "EnrollmentCount": 47
+      }
+    ]
+  },
+  "AMG 211/MEDI-565": {
+    "meta": {
+      "query": "AMG 211",
+      "target": "CEA×CD3",
+      "company": "Amgen/MedImmune",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'AMG 211': 2 hits",
+      "intr 'MEDI-565': 2 hits"
+    ],
+    "trial_count": 3,
+    "trials": [
+      {
+        "NCTId": "NCT01284231",
+        "BriefTitle": "A Study to Evaluate the Safety and Tolerability of MEDI-565 in Adults With Gastrointestinal Adenocarcinomas",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "MedImmune LLC",
+        "InterventionName": "MEDI-565; MEDI-565; MEDI-565; MEDI-565",
+        "StartDate": "2010-12",
+        "LastUpdatePostDate": "2015-03-03",
+        "HasResults": false,
+        "EnrollmentCount": 78
+      },
+      {
+        "NCTId": "NCT02291614",
+        "BriefTitle": "A Phase 1 Study of AMG 211 in Participants With Advanced Gastrointestinal Cancer",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Amgen",
+        "InterventionName": "AMG 211",
+        "StartDate": "2014-11-27",
+        "LastUpdatePostDate": "2021-03-16",
+        "HasResults": true,
+        "EnrollmentCount": 45
+      },
+      {
+        "NCTId": "NCT02760199",
+        "BriefTitle": "89Zr-AMG211 PET Imaging Study",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "University Medical Center Groningen",
+        "InterventionName": "89Zr-AMG211; 89-ZrAMG211 PET",
+        "StartDate": "2016-08",
+        "LastUpdatePostDate": "2024-05-03",
+        "HasResults": false,
+        "EnrollmentCount": 9
+      }
+    ]
+  },
+  "BI 836909": {
+    "meta": {
+      "query": "BI 836909",
+      "target": "DLL3×CD3",
+      "company": "Boehringer Ingelheim",
+      "category": "常规抗体TCE",
+      "note": "BiTE"
+    },
+    "query_notes": [
+      "intr 'BI 836909': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT02514239",
+        "BriefTitle": "Phase I Dose Escalation of i.v. BI 836909 Monotherapy in Last Line Multiple Myeloma Patients",
+        "OverallStatus": "COMPLETED",
+        "Phase": "PHASE1",
+        "LeadSponsorName": "Boehringer Ingelheim",
+        "InterventionName": "BI 836909",
+        "StartDate": "2015-07-08",
+        "LastUpdatePostDate": "2022-02-24",
+        "HasResults": true,
+        "EnrollmentCount": 43
+      }
+    ]
+  },
+  "GEN1044": {
+    "meta": {
+      "query": "GEN1044",
+      "target": "5T4×CD3",
+      "company": "Genmab",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'GEN1044': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT04424641",
+        "BriefTitle": "A Study on the Safety of GEN1044 (DuoBody®-CD3x5T4) in Patients With Malignant Solid Tumors",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Genmab",
+        "InterventionName": "GEN1044 is an immunoglobulin G1 (IgG1) bispecific antibody targeting CD3 and 5T4.",
+        "StartDate": "2020-07-15",
+        "LastUpdatePostDate": "2023-07-25",
+        "HasResults": true,
+        "EnrollmentCount": 48
+      }
+    ]
+  },
+  "GEN1047": {
+    "meta": {
+      "query": "GEN1047",
+      "target": "B7-H4×CD3",
+      "company": "Genmab",
+      "category": "常规抗体TCE",
+      "note": ""
+    },
+    "query_notes": [
+      "intr 'GEN1047': 1 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05180474",
+        "BriefTitle": "GEN1047 for Solid Tumors - First in Human (FIH) Trial",
+        "OverallStatus": "TERMINATED",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Genmab",
+        "InterventionName": "GEN1047 is a bispecific antibody that induces T-cell mediated cytotoxicity of B7H4-positive tumor cells.",
+        "StartDate": "2021-12-13",
+        "LastUpdatePostDate": "2026-07-23",
+        "HasResults": false,
+        "EnrollmentCount": 179
+      }
+    ]
+  },
+  "VIR-5818/AMX-818/SAR446368": {
+    "meta": {
+      "query": "AMX-818",
+      "target": "HER2×CD3",
+      "company": "Vir Biotechnology（原 Amunix/Sanofi）",
+      "category": "条件激活",
+      "note": "掩蔽型前药; v3: 主名改 VIR-5818 (formerly AMX-818), NCT05356741 招募中"
+    },
+    "query_notes": [
+      "intr 0 hits -> term '\"AMX-818\"': 1 hits",
+      "intr 0 hits -> term '\"SAR446368\"': 0 hits"
+    ],
+    "trial_count": 1,
+    "trials": [
+      {
+        "NCTId": "NCT05356741",
+        "BriefTitle": "To Access the Safety and Effects of Intravenous Administration of VIR-5818 Alone and in Combination With Pembrolizumab in Adult Participants With Locally Advanced or Metastatic HER2-Expressing Cancers",
+        "OverallStatus": "RECRUITING",
+        "Phase": "PHASE1_PHASE2",
+        "LeadSponsorName": "Vir Biotechnology, Inc.",
+        "InterventionName": "VIR-5818; pembrolizumab",
+        "StartDate": "2022-04-13",
+        "LastUpdatePostDate": "2025-09-24",
+        "HasResults": false,
+        "EnrollmentCount": 645
+      }
+    ]
+  }
+}

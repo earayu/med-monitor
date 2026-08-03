@@ -1,0 +1,56 @@
+# fetch log 2026-08-03 13:11:09
+Tarlatamab (Imdelltra): 37 trials | intr 'tarlatamab': 37 hits
+Tebentafusp/IMCgp100 (Kimmtrak): 23 trials | intr 'tebentafusp': 20 hits; intr 'IMCgp100': 13 hits
+Catumaxomab (Korjuny/Removab): 18 trials | intr 'catumaxomab': 18 hits
+Pasritamig/JNJ-78278343: 8 trials | intr 'pasritamig': 6 hits; intr 'JNJ-78278343': 8 hits
+Obrixtamig/BI 764532: 12 trials | intr 'obrixtamig': 12 hits; intr 'BI 764532': 9 hits
+HLX3901: 1 trials | intr 'HLX3901': 1 hits
+AZD5863: 1 trials | intr 'AZD5863': 1 hits
+ERY974: 2 trials | intr 'ERY974': 2 hits
+Cibisatamab/RO6958688/RO6958689: 5 trials | intr 'cibisatamab': 2 hits; intr 'RO6958688': 3 hits; intr 0 hits -> term '"RO6958689"': 0 hits
+Obrindatamab/MGD009: 2 trials | intr 'obrindatamab': 1 hits; intr 'MGD009': 2 hits
+TAK-280: 1 trials | intr 'TAK-280': 1 hits
+AMG 340: 1 trials | intr 'AMG 340': 1 hits
+Acapatamab/AMG 160: 3 trials | intr 'acapatamab': 2 hits; intr 'AMG 160': 1 hits
+CC-1: 3 trials | intr 'CC-1': 32 hits; relevance filter: 32 -> 3
+CX-904: 1 trials | intr 'CX-904': 1 hits
+TAK-186: 2 trials | intr 'TAK-186': 2 hits
+M701: 4 trials | intr 'M701': 4 hits
+BA3182: 1 trials | intr 'BA3182': 1 hits
+Ubamatamab/REGN4018: 7 trials | intr 'ubamatamab': 7 hits; intr 'REGN4018': 4 hits
+ISB 1302: 1 trials | intr 'ISB 1302': 1 hits
+Ertumaxomab: 4 trials | intr 'ertumaxomab': 4 hits
+CM350: 1 trials | intr 'CM350': 1 hits
+BA1202: 1 trials | intr 'BA1202': 1 hits
+KGX105: 1 trials | intr 'KGX105': 1 hits
+QLF4113: 1 trials | intr 'QLF4113': 1 hits
+M802: 1 trials | intr 'M802': 1 hits
+Gocatamig/MK-6070/HPN328: 3 trials | intr 'gocatamig': 3 hits; intr 'MK-6070': 3 hits; intr 'HPN328': 3 hits
+Alveltamig/ZG006: 10 trials | intr 0 hits -> term '"alveltamig"': 0 hits; intr 'ZG006': 10 hits
+JANX007: 1 trials | intr 'JANX007': 1 hits
+JANX008: 1 trials | intr 'JANX008': 1 hits
+Xaluritamig/AMG 509: 9 trials | intr 'xaluritamig': 9 hits; intr 'AMG 509': 8 hits
+Brenetafusp/IMC-F106C: 3 trials | intr 'brenetafusp': 3 hits; intr 'IMC-F106C': 3 hits
+IBI389: 1 trials | intr 'IBI389': 1 hits
+AMG 910: 1 trials | intr 'AMG 910': 1 hits
+REGN4336: 2 trials | intr 'REGN4336': 2 hits
+PF-07062119: 1 trials | intr 'PF-07062119': 1 hits
+Tidutamab/XmAb18087: 2 trials | intr 0 hits -> term '"tidutamab"': 0 hits; intr 'XmAb18087': 2 hits
+Nivatrotamab/Hu3F8-BsAb: 2 trials | intr 'nivatrotamab': 2 hits; intr 'Hu3F8-BsAb': 2 hits
+MGD007: 2 trials | intr 'MGD007': 2 hits
+HPN536: 1 trials | intr 'HPN536': 1 hits
+AMG 596: 1 trials | intr 'AMG 596': 1 hits
+IMC-C103C: 1 trials | intr 'IMC-C103C': 1 hits
+Solitomab/MT110: 1 trials | intr 0 hits -> term '"solitomab"': 0 hits; intr 'MT110': 1 hits
+PF-06671008: 1 trials | intr 'PF-06671008': 1 hits
+ZGGS34: 1 trials | intr 'ZGGS34': 1 hits
+HPN424: 1 trials | intr 'HPN424': 1 hits
+Pasotuxizumab/AMG 212/BAY 2010112: 1 trials | intr 0 hits -> term '"pasotuxizumab"': 0 hits; intr 0 hits -> term '"AMG 212"': 0 hits; intr 'BAY 2010112': 1 hits
+AMG 211/MEDI-565: 3 trials | intr 'AMG 211': 2 hits; intr 'MEDI-565': 2 hits
+BI 836909: 1 trials | intr 'BI 836909': 1 hits
+GEN1044: 1 trials | intr 'GEN1044': 1 hits
+GEN1047: 1 trials | intr 'GEN1047': 1 hits
+AMX-818/SAR446368: 1 trials | intr 0 hits -> term '"AMX-818"': 1 hits; intr 0 hits -> term '"SAR446368"': 0 hits
+
+TOTAL products: 52
+ZERO-HIT products (0): none

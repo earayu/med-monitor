@@ -1,0 +1,58 @@
+# 实体瘤 TCE 产品清单 v3 (2026-08-03, @徐陆恺 最终裁定)
+# 格式: 查询名|显示名|靶点|厂家|分子类型|备注
+# 分子类型: 常规抗体TCE / 条件激活 / TriTAC·三特异 / TCR×CD3 (生命周期由 ct.gov 状态推导, 不作并列分类)
+# v2 变更: JNJ-87189401(PSMA×CD28共刺激双抗,非TCE)与JNJ-101556143(联合试验误命中)移出主清单; hu3F8 bispecific 并入 nivatrotamab 行
+# v3 变更: AMX-818 主名改 VIR-5818 (厂家 Vir, 原 Amunix/Sanofi); NCT07258121 经人工裁定归 ZGGS34 (ct.gov 字段矛盾), 从 alveltamig 剔除
+tarlatamab|Tarlatamab (Imdelltra)|DLL3×CD3|Amgen|常规抗体TCE|已上市(SCLC)
+tebentafusp|Tebentafusp/IMCgp100 (Kimmtrak)|gp100 peptide–HLA-A*02:01×CD3|Immunocore|TCR×CD3|已上市(葡萄膜黑色素瘤)
+catumaxomab|Catumaxomab (Korjuny/Removab)|EpCAM×CD3|Lindis/Neovii|常规抗体TCE|2025-02-10 以 Korjuny 获 EU 上市许可(EMA EPAR); 旧品牌 Removab 曾撤市
+pasritamig|Pasritamig/JNJ-78278343|KLK2×CD3|Janssen|常规抗体TCE|v2: 靶点由PSMA更正为KLK2
+obrixtamig|Obrixtamig/BI 764532|DLL3×CD3|Boehringer Ingelheim|常规抗体TCE|
+HLX3901|HLX3901|DLL3×CD3|复宏汉霖|常规抗体TCE|
+AZD5863|AZD5863|CLDN18.2×CD3|AstraZeneca|常规抗体TCE|
+ERY974|ERY974|GPC3×CD3|Chugai|常规抗体TCE|
+cibisatamab|Cibisatamab/RO6958688/RO6958689|CEA×CD3|Roche|常规抗体TCE|
+obrindatamab|Obrindatamab/MGD009|B7-H3×CD3|MacroGenics|常规抗体TCE|
+TAK-280|TAK-280|B7-H3×CD3|Takeda|常规抗体TCE|
+AMG 340|AMG 340|PSMA×CD3|Amgen|常规抗体TCE|注意: 非acapatamab
+acapatamab|Acapatamab/AMG 160|PSMA×CD3|Amgen|常规抗体TCE|
+CC-1|CC-1|PSMA×CD3|Univ. Tübingen|常规抗体TCE|
+CX-904|CX-904|EGFR×CD3|CytomX|条件激活|Probody
+TAK-186|TAK-186|EGFR×CD3|Takeda|常规抗体TCE|COBRA; v2: 按复核意见归常规抗体TCE, 生命周期终止
+M701|M701|EpCAM×CD3|武汉友芝友|常规抗体TCE|
+BA3182|BA3182|EpCAM×CD3|BioAtla|条件激活|CAB
+ubamatamab|Ubamatamab/REGN4018|MUC16×CD3|Regeneron|常规抗体TCE|
+ISB 1302|ISB 1302|HER2×CD3|Ichnos|常规抗体TCE|
+ertumaxomab|Ertumaxomab|HER2×CD3|Neovii|常规抗体TCE|历史终止
+CM350|CM350|GPC3×CD3|康诺亚|常规抗体TCE|
+BA1202|BA1202|CEA×CD3|博安生物|常规抗体TCE|
+KGX105|KGX105|EGFR×CD3|Kangabio|条件激活|掩蔽型前药
+QLF4113|QLF4113|PSMA×CD3×CD2|齐鲁制药|TriTAC·三特异|v2: CD28更正为CD2
+M802|M802|HER2×CD3|武汉友芝友|常规抗体TCE|
+gocatamig|Gocatamig/MK-6070/HPN328|DLL3×CD3×albumin|Merck/Harpoon|TriTAC·三特异|TriTAC
+alveltamig|Alveltamig/ZG006|DLL3×DLL3×CD3|泽璟生物 Suzhou Zelgen|TriTAC·三特异|v2: 厂家裁定泽璟, 补正式名alveltamig, 移入三特异; v3: NCT07258121 剔除(人工裁定归 ZGGS34), 试验数 9
+JANX007|JANX007|PSMA×CD3|Janux|条件激活|TRACTr
+JANX008|JANX008|EGFR×CD3|Janux|条件激活|TRACTr
+xaluritamig|Xaluritamig/AMG 509|STEAP1×CD3|Amgen|常规抗体TCE|
+brenetafusp|Brenetafusp/IMC-F106C|PRAME peptide–HLA-A*02:01×CD3|Immunocore|TCR×CD3|
+IBI389|IBI389|CLDN18.2×CD3|信达生物|常规抗体TCE|
+AMG 910|AMG 910|CLDN18.2×CD3|Amgen|常规抗体TCE|
+REGN4336|REGN4336|PSMA×CD3|Regeneron|常规抗体TCE|
+PF-07062119|PF-07062119|GUCY2C×CD3|Pfizer|常规抗体TCE|v2: 靶点由CEA更正为GUCY2C
+tidutamab|Tidutamab/XmAb18087|SSTR2×CD3|Xencor|常规抗体TCE|
+nivatrotamab|Nivatrotamab/Hu3F8-BsAb|GD2×CD3|Y-mAbs/MSK|常规抗体TCE|v2: 与hu3F8 bispecific合并(同一分子); NCT03860207
+MGD007|MGD007|gpA33×CD3|MacroGenics|常规抗体TCE|
+HPN536|HPN536|MSLN×CD3×albumin|Harpoon|TriTAC·三特异|TriTAC
+AMG 596|AMG 596|EGFRvIII×CD3|Amgen|常规抗体TCE|
+IMC-C103C|IMC-C103C|MAGE-A4 peptide–HLA-A*02:01×CD3|Immunocore|TCR×CD3|
+solitomab|Solitomab/MT110|EpCAM×CD3|Amgen|常规抗体TCE|BiTE
+PF-06671008|PF-06671008|P-cadherin×CD3|Pfizer|常规抗体TCE|历史终止; 已在CDH3监控
+# v2 新增 8 个产品 (2026-08-03)
+ZGGS34|ZGGS34|MUC17×CD3×CD28|泽璟生物 Suzhou Zelgen|TriTAC·三特异|中国I期 NCT07258121 招募中(厂家经ct.gov核实)
+HPN424|HPN424|PSMA×CD3×albumin|Harpoon|TriTAC·三特异|TriTAC; NCT03577028
+pasotuxizumab|Pasotuxizumab/AMG 212/BAY 2010112|PSMA×CD3|Amgen/Bayer|常规抗体TCE|BiTE
+AMG 211|AMG 211/MEDI-565|CEA×CD3|Amgen/MedImmune|常规抗体TCE|
+BI 836909|BI 836909|DLL3×CD3|Boehringer Ingelheim|常规抗体TCE|BiTE
+GEN1044|GEN1044|5T4×CD3|Genmab|常规抗体TCE|
+GEN1047|GEN1047|B7-H4×CD3|Genmab|常规抗体TCE|
+AMX-818|VIR-5818/AMX-818/SAR446368|HER2×CD3|Vir Biotechnology（原 Amunix/Sanofi）|条件激活|掩蔽型前药; v3: 主名改 VIR-5818 (formerly AMX-818), NCT05356741 招募中

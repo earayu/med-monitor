@@ -86,16 +86,26 @@ def fetch_ctgov(query, max_results, relevance_terms=()):
     API 分词宽泛 ("P-cadherin" 会命中 E/VE/N-cadherin), 因此取宽召回后
     在本地按 title+interventions 做整词/子串过滤 (relevance_terms)。
     """
-    params = {
-        "query.term": query,
-        "pageSize": str(min(max_results, 100)),
-        "fields": "NCTId,BriefTitle,OverallStatus,Phase,LastUpdatePostDate,LeadSponsorName,InterventionName",
-        "format": "json",
-    }
-    url = CTGOV_URL + "?" + urllib.parse.urlencode(params)
-    data = http_get_json(url)
+    studies = []
+    page_token = None
+    while len(studies) < max_results:
+        params = {
+            "query.term": query,
+            "pageSize": str(min(max_results - len(studies), 100)),
+            "fields": "NCTId,BriefTitle,OverallStatus,Phase,LastUpdatePostDate,LeadSponsorName,InterventionName",
+            "format": "json",
+        }
+        if page_token:
+            params["pageToken"] = page_token
+        url = CTGOV_URL + "?" + urllib.parse.urlencode(params)
+        data = http_get_json(url)
+        studies.extend(data.get("studies", []))
+        page_token = data.get("nextPageToken")
+        if not page_token or not data.get("studies"):
+            break
+        time.sleep(0.4)
     result = {}
-    for study in data.get("studies", []):
+    for study in studies:
         proto = study.get("protocolSection", {})
         ident = proto.get("identificationModule", {})
         status = proto.get("statusModule", {})

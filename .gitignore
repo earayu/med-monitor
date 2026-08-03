@@ -1,7 +1,10 @@
 # 运行时数据与输出不入库
 state/state.json
 reports/
+logs/
 monitor.log
 __pycache__/
 .DS_Store
-logs/
+# TCE 报告中间产物 (原始 JSON/摘要/脚本输出大文件)
+tce_report/pubmed_abstracts/
+tce_report/pubmed_hits.json
