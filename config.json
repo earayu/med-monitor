@@ -2,10 +2,17 @@
   "targets": [
     {
       "name": "CDH3",
-      "pubmed_query": "CDH3 OR cadherin-3 OR P-cadherin",
+      "pubmed_query": "CDH3 OR cadherin-3 OR P-cadherin OR BC3195 OR PCA062 OR PF-06671008",
+      "pubmed_filter": "antibody OR ADC OR \"antibody-drug conjugate\" OR bispecific OR vaccine",
+      "ctgov_query": "AREA[InterventionName]\"P-cadherin\" OR AREA[InterventionName]\"CDH3\" OR AREA[InterventionName]\"BC3195\" OR AREA[InterventionName]\"PCA062\" OR AREA[InterventionName]\"PF-06671008\" OR AREA[OfficialTitle]\"P-cadherin\" OR AREA[OfficialTitle]\"CDH3\" OR AREA[OfficialTitle]\"cadherin 3\" OR AREA[OfficialTitle]\"BC3195\" OR AREA[OfficialTitle]\"PCA062\" OR AREA[OfficialTitle]\"PF-06671008\"",
+      "ctgov_relevance_terms": ["CDH3", "cadherin 3", "cadherin-3", "P-cadherin", "pCAD", "BC3195", "PCA062", "PF-06671008"]
+    },
+    {
+      "name": "CDH6",
+      "pubmed_query": "CDH6 OR cadherin-6 OR K-cadherin OR raludotatug",
       "pubmed_filter": "antibody OR ADC OR \"antibody-drug conjugate\" OR bispecific",
-      "ctgov_query": "AREA[InterventionName]\"P-cadherin\" OR AREA[InterventionName]\"CDH3\" OR AREA[InterventionName]\"raludotatug\" OR AREA[OfficialTitle]\"P-cadherin\" OR AREA[OfficialTitle]\"CDH3\" OR AREA[OfficialTitle]\"raludotatug\" OR AREA[OfficialTitle]\"R-DXd\"",
-      "ctgov_relevance_terms": ["CDH3", "P-cadherin", "raludotatug", "R-DXd"]
+      "ctgov_query": "AREA[InterventionName]\"CDH6\" OR AREA[InterventionName]\"cadherin 6\" OR AREA[InterventionName]\"raludotatug\" OR AREA[OfficialTitle]\"CDH6\" OR AREA[OfficialTitle]\"cadherin 6\" OR AREA[OfficialTitle]\"raludotatug\" OR AREA[OfficialTitle]\"R-DXd\"",
+      "ctgov_relevance_terms": ["CDH6", "cadherin 6", "cadherin-6", "K-cadherin", "raludotatug", "R-DXd"]
     }
   ],
   "lookback_days": 7,
